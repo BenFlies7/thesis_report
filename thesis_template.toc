@@ -2,38 +2,38 @@
 \contentsline {section}{List of Figures}{ii}{table.caption.4}
 \contentsline {section}{List of Tables}{iii}{section*.5}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}EGFR Signaling Cascade}{4}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}EGFR Signaling in Cancer}{5}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Targeted Sequencing and Target Enrichment Methods}{7}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Sequencing Chemistries}{8}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Illumina MiSeq}{8}{subsubsection.1.4.1}
-\contentsline {subsection}{\numberline {1.5}NGS Data Analysis}{11}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.1}EGFR Signaling Cascade}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}EGFR Signaling in Cancer}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Targeted Sequencing and Target Enrichment Methods}{6}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Sequencing Chemistries}{7}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Illumina MiSeq}{7}{subsubsection.1.4.1}
+\contentsline {subsection}{\numberline {1.5}NGS Data Analysis}{10}{subsection.1.5}
 \contentsline {subsection}{\numberline {1.6}Practical Implications in the Laboratory}{11}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}Aims of the Thesis}{15}{subsection.1.7}
-\contentsline {section}{\numberline {2}Material and Methods}{16}{section.2}
-\contentsline {subsection}{\numberline {2.1}Library Preparation}{16}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Patients}{16}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}DNA Extraction, Quantification and Quality Control}{16}{subsubsection.2.1.2}
-\contentsline {paragraph}{DNA Extraction}{16}{section*.8}
-\contentsline {paragraph}{Quantification}{16}{section*.9}
-\contentsline {paragraph}{Quality Control}{16}{section*.10}
-\contentsline {subsubsection}{\numberline {2.1.3}Agilent Haloplex ClearSeq Cancer}{16}{subsubsection.2.1.3}
-\contentsline {subsubsection}{\numberline {2.1.4}Illumina TruSight Tumor 15}{16}{subsubsection.2.1.4}
-\contentsline {subsection}{\numberline {2.2}Bioinformatic Analysis}{16}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Agilent SureCall}{16}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Illumina BaseSpace TruSight Tumor 15 App}{17}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Custom In-House Pipeline (Velona)}{17}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Variant Calling Algorithms}{17}{subsubsection.2.2.4}
-\contentsline {paragraph}{GATK HaplotypeCaller}{17}{section*.11}
-\contentsline {paragraph}{VarScan 2}{17}{section*.12}
-\contentsline {paragraph}{Mutect1.1.7}{17}{section*.13}
-\contentsline {paragraph}{SomVarIUS}{17}{section*.14}
-\contentsline {section}{\numberline {3}Results}{18}{section.3}
-\contentsline {subsection}{\numberline {3.1}Sample Preparation}{18}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}NGS Data Quality}{18}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Coverage Analysis}{21}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Variant Calling Algorithm Comparison}{23}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Detection of Known Single Nucleotide Variants and Deletions}{23}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Sensitivity Analysis}{23}{subsubsection.3.4.2}
-\contentsline {section}{\numberline {4}Conclusions}{25}{section.4}
-\contentsline {section}{References}{27}{section.4}
+\contentsline {subsection}{\numberline {1.7}Aims of the Thesis}{14}{subsection.1.7}
+\contentsline {section}{\numberline {2}Material and Methods}{15}{section.2}
+\contentsline {subsection}{\numberline {2.1}Library Preparation}{15}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Patients}{15}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}DNA Extraction, Quantification and Quality Control}{15}{subsubsection.2.1.2}
+\contentsline {paragraph}{DNA Extraction}{15}{section*.8}
+\contentsline {paragraph}{Quantification}{15}{section*.9}
+\contentsline {paragraph}{Quality Control}{15}{section*.10}
+\contentsline {subsubsection}{\numberline {2.1.3}Agilent Haloplex ClearSeq Cancer}{15}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Illumina TruSight Tumor 15}{15}{subsubsection.2.1.4}
+\contentsline {subsection}{\numberline {2.2}Bioinformatic Analysis}{15}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Agilent SureCall}{15}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Illumina BaseSpace TruSight Tumor 15 App}{16}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Custom In-House Pipeline (Velona)}{16}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Variant Calling Algorithms}{16}{subsubsection.2.2.4}
+\contentsline {paragraph}{GATK HaplotypeCaller}{16}{section*.11}
+\contentsline {paragraph}{VarScan 2}{16}{section*.12}
+\contentsline {paragraph}{Mutect1.1.7}{16}{section*.13}
+\contentsline {paragraph}{SomVarIUS}{16}{section*.14}
+\contentsline {section}{\numberline {3}Results}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Sample Preparation}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}NGS Data Quality}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Coverage Analysis}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Variant Calling Algorithm Comparison}{22}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Detection of Known Single Nucleotide Variants and Deletions}{22}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Sensitivity Analysis}{22}{subsubsection.3.4.2}
+\contentsline {section}{\numberline {4}Conclusions}{24}{section.4}
+\contentsline {section}{References}{25}{section.4}

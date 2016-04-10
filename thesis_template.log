@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.18)  9 APR 2016 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.10)  10 APR 2016 20:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -569,9 +569,6 @@ LaTeX Warning: Label `fig:amp_dist_tst' multiply defined.
 LaTeX Warning: Label `sub@fig:amp_dist_tst' multiply defined.
 
 
-LaTeX Warning: Label `Fig:bioanalyzer_scatter' multiply defined.
-
-
 ! Package natbib Error: Bibliography not compatible with author-year citations.
 
 (natbib)                Press <return> to continue in numerical citation style.
@@ -581,7 +578,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 ...and\NAT@force@numbers{}\NAT@force@numbers
+l.110 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? 
 )
@@ -675,12 +672,7 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 ) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./abst
-ract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--10
-
- []
-
-) [1] (./thesis_template.toc
+ract.tex) [1] (./thesis_template.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -911,22 +903,9 @@ l.6 ...ensitivity_analysis}}{25}{table.caption.24}
 \openout6 = `thesis_template.lot'.
 
  [3] (./intro.tex
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 5.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsphv.fd
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-
-
-Package natbib Warning: Citation `Breusch&Schmidt:88' on page 1 undefined on in
-put line 18.
-
 ! Undefined control sequence.
-l.32 ...-cancer treatments are tailored for the \‚
-                                                  Äûaverage patient\‚Äú and ...
-
+l.7 ...i-cancer treatments are tailored for the \‚
+                                                  Äûaverage
 ? 
 
 ! Package inputenc Error: Keyboard character used is undefined
@@ -936,9 +915,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 ...cancer treatments are tailored for the \‚Ä
-                                                  ûaverage patient\‚Äú and n...
-
+l.7 ...-cancer treatments are tailored for the \‚Ä
+                                                  ûaverage
 ? 
 
 ! Package inputenc Error: Keyboard character used is undefined
@@ -948,13 +926,12 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 ...ancer treatments are tailored for the \‚Äû
-                                                  average patient\‚Äú and no...
-
+l.7 ...cancer treatments are tailored for the \‚Äû
+                                                  average
 ? 
 ! Undefined control sequence.
-l.32 ...are tailored for the \‚Äûaverage patient\‚
-                                                  Äú and not for the individ...
+l.8 patient\‚
+             Äú and not for the individual. Traditional cytotoxic chemothera...
 
 ? 
 
@@ -965,8 +942,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 ...re tailored for the \‚Äûaverage patient\‚Ä
-                                                  ú and not for the individu...
+l.8 patient\‚Ä
+              ú and not for the individual. Traditional cytotoxic chemothera...
 
 ? 
 
@@ -977,49 +954,39 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 ...e tailored for the \‚Äûaverage patient\‚Äú
-                                                   and not for the individua...
+l.8 patient\‚Äú
+                and not for the individual. Traditional cytotoxic chemothera...
 
 ? 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 
-      [1]
-
-! Package inputenc Error: Unicode char \u8:√ó not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 ... the sequencing laboratories (100‚Äì-250√ó
-                                                  ), may have limited abilit...
-
-? 
-[2]
-Overfull \hbox (2.22119pt too wide) in paragraph at lines 46--50
-\OT1/phv/m/n/10.95 col-ogy through in-te-gra-tive high-throughput se-quenc-ing:
- a pi-lot study. Sci Transl Med 2011;3:111ra21.
- []
-
-[3]
+l.48 
+      [1] [2]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 64.
+(Font)              scaled to size 11.03998pt on input line 84.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 64.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 84.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 64.
- [4] <egfr_signaling.png, id=255, 185.7339pt x 128.1588pt>
+(Font)              scaled to size 11.03998pt on input line 84.
+ [3] <egfr_signaling.png, id=245, 185.7339pt x 128.1588pt>
 File: egfr_signaling.png Graphic file (type png)
 
 <use egfr_signaling.png>
-Package pdftex.def Info: egfr_signaling.png used on input line 115.
+Package pdftex.def Info: egfr_signaling.png used on input line 135.
 (pdftex.def)             Requested size: 371.46689pt x 256.31696pt.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 146.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 126.
- [5]
+(Font)              scaled to size 7.35999pt on input line 146.
+ [4]
 
 ! Package inputenc Error: Unicode char \u8:Œ± not set up for use with LaTeX.
 
@@ -1027,37 +994,37 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 ...d-binding domain. Upon ligand (EGF, TGFŒ±
+l.148 ...d-binding domain. Upon ligand (EGF, TGFŒ±
                                                   ) binding, EGFR becomes ac...
 
 ? 
-[6 <./egfr_signaling.png (PNG copy)>] [7]
+[5 <./egfr_signaling.png (PNG copy)>] [6]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.167 ...ts/products/techspotlights/techspotlight_
+l.223 ...ts/products/techspotlights/techspotlight_
                                                   sequencing.pdf
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.168 
+l.224 
       
 ? 
-[8]
+[7]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.177 https://en.wikipedia.org/wiki/Illumina_
+l.233 https://en.wikipedia.org/wiki/Illumina_
                                              dye_sequencing
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.178 
+l.234 
       
 ? 
-[9] [10] [11]
+[8] [9] [10]
 
 ! Package inputenc Error: Unicode char \u8:ÃÅ not set up for use with LaTeX.
 
@@ -1065,11 +1032,11 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...nt to the Laboratoire National de SanteÃÅ
+l.270 ...nt to the Laboratoire National de SanteÃÅ
                                                    (LNS) to the Service of P...
 
 ? 
-[12] [13]
+[11] [12]
 
 ! Package inputenc Error: Unicode char \u8:Œº not set up for use with LaTeX.
 
@@ -1077,7 +1044,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.248 typically 5 Œº
+l.304 typically 5 Œº
                     m (micrometres; 1000 micrometres = 1 mm) thick for light...
 
 ? 
@@ -1088,7 +1055,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 required. Thicker sections (0.35Œº
+l.315 required. Thicker sections (0.35Œº
                                         m to 5Œºm) of resin-embedded tissue ...
 
 ? 
@@ -1099,23 +1066,23 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 required. Thicker sections (0.35Œºm to 5Œº
+l.315 required. Thicker sections (0.35Œºm to 5Œº
                                                 m) of resin-embedded tissue ...
 
 ? 
-[14]
-Overfull \hbox (149.7789pt too wide) in paragraph at lines 303--305
+[13]
+Overfull \hbox (149.7789pt too wide) in paragraph at lines 359--361
 []\OT1/phv/m/n/10.95 how to re-port? all re-sults or only those that are known 
 to be ac-tion-able. >>>>>>> a5147a619d3523c598b91a86e2c62e19a96fd26f 
  []
 
-) (./methods.tex [15]
+) (./methods.tex [14]
 ! Misplaced alignment tab character &.
 l.24 ...sed as some kind of good quality samples &
                                                    to see if there
 ? 
-[16] [17]) (./results.tex
-<fastq_halo_forward.png, id=326, 842.14626pt x 601.24625pt>
+[15] [16]) (./results.tex
+<fastq_halo_forward.png, id=318, 842.14626pt x 601.24625pt>
 File: fastq_halo_forward.png Graphic file (type png)
 
 <use fastq_halo_forward.png>
@@ -1132,7 +1099,7 @@ File: fastq_halo_forward.png Graphic file (type png)
 Package pdftex.def Info: fastq_halo_forward.png used on input line 15.
 (pdftex.def)             Requested size: 198.45662pt x 141.68738pt.
 
-<graph.pdf, id=327, 361.35pt x 303.1325pt>
+<graph.pdf, id=319, 361.35pt x 303.1325pt>
 File: graph.pdf Graphic file (type pdf)
  <use graph.pdf>
 Package pdftex.def Info: graph.pdf used on input line 21.
@@ -1160,19 +1127,19 @@ File: fastq_halo_forward.png Graphic file (type png)
 Package pdftex.def Info: fastq_halo_forward.png used on input line 62.
 (pdftex.def)             Requested size: 220.50885pt x 157.43042pt.
 
-<fastq_tst15_forward.png, id=328, 820.06375pt x 594.22pt>
+<fastq_tst15_forward.png, id=320, 820.06375pt x 594.22pt>
 File: fastq_tst15_forward.png Graphic file (type png)
 
 <use fastq_tst15_forward.png>
 Package pdftex.def Info: fastq_tst15_forward.png used on input line 64.
 (pdftex.def)             Requested size: 220.50885pt x 159.77965pt.
- [18 <./fastq_halo_forward.png>] [19 <./graph.pdf>]
+ [17 <./fastq_halo_forward.png>] [18 <./graph.pdf>]
 
-LaTeX Warning: Reference `table:samtools_flagstat' on page 20 undefined on inpu
+LaTeX Warning: Reference `table:samtools_flagstat' on page 19 undefined on inpu
 t line 89.
 
-[20 <./fastq_tst15_forward.png>]
-<distribution_amplicons_hap_csc.png, id=351, 1107.1764pt x 864.3492pt>
+[19 <./fastq_tst15_forward.png>]
+<distribution_amplicons_hap_csc.png, id=343, 1107.1764pt x 864.3492pt>
 File: distribution_amplicons_hap_csc.png Graphic file (type png)
 
 <use distribution_amplicons_hap_csc.png>
@@ -1185,13 +1152,13 @@ File: distribution_amplicons_hap_csc.png Graphic file (type png)
 Package pdftex.def Info: distribution_amplicons_hap_csc.png used on input line 
 113.
 (pdftex.def)             Requested size: 220.50885pt x 172.14139pt.
- [21 <./distribution_amplicons_hap_csc.png>]
+ [20 <./distribution_amplicons_hap_csc.png>]
 Overfull \hbox (51.06075pt too wide) in paragraph at lines 176--181
 \OT1/phv/m/n/10.95 re-quired cov-er-age thresh-olds is prob-lem-atic. This is e
 s-pe-cially the case for am-pli-con 1EGFRxxE21TF035SR035
  []
 
-[22]
+[21]
 Overfull \hbox (1.21492pt too wide) in paragraph at lines 226--226
 []\OT1/phv/m/n/10.95 Tissue| 
  []
@@ -1256,7 +1223,7 @@ Overfull \hbox (23.87932pt too wide) in paragraph at lines 255--273
  [][] 
  []
 
-<var_freqs.png, id=364, 968.61874pt x 295.1025pt>
+<var_freqs.png, id=356, 968.61874pt x 295.1025pt>
 File: var_freqs.png Graphic file (type png)
  <use var_freqs.png>
 Package pdftex.def Info: var_freqs.png used on input line 277.
@@ -1266,17 +1233,25 @@ Overfull \hbox (43.29047pt too wide) in paragraph at lines 277--278
  [] 
  []
 
-[23] [24 <./var_freqs.png>]) (./conc.tex [25]) [26] (./thesis_template.bbl
+[22] [23 <./var_freqs.png>]) (./conc.tex
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \end{itemize}
+                 
+? 
+) [24] (./thesis_template.bbl
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 10.07397pt on input line 6.
 )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
-[27]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
  (./thesis_template.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
@@ -1293,13 +1268,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 8580 strings out of 493089
- 125936 string characters out of 6134842
- 344737 words of memory out of 5000000
- 11813 multiletter control sequences out of 15000+600000
+ 8576 strings out of 493089
+ 125904 string characters out of 6134842
+ 343779 words of memory out of 5000000
+ 11811 multiletter control sequences out of 15000+600000
  23198 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,47p,2446b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,47p,1530b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
@@ -1307,10 +1282,10 @@ ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015
 /texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on thesis_template.pdf (34 pages, 512951 bytes).
+Output written on thesis_template.pdf (32 pages, 508294 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 379 compressed objects within 4 object streams
- 97 named destinations out of 1000 (max. 500000)
+ 422 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 95 named destinations out of 1000 (max. 500000)
  287 words of extra memory for PDF output out of 10000 (max. 10000000)
 
