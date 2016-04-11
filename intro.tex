@@ -13,21 +13,41 @@ cancer (1.4 million cases; 694,000 deaths), prostate cancer (1.1 million cases;
 In Luxembourg, there were 1164 death cases caused by cancer in 2014, accounting
 for 30.6\%  of the number of deaths. Cancer is thereby the second most common
 death cause in Luxembourg, ranging behind cardiovascular diseases (1189 deaths;
-31.3\%). Amongst these cancer deaths, cancers of the digestive organs (340
-deaths) and of the respiratory organs (272 deaths) were the most frequent ones.
+31.3\%). Amongst these cancer deaths, cancers of the digestive organs (340 deaths)
+and of the respiratory organs (272 deaths) were the most frequent ones.
 {\cite{cancer_stats:2012}}.
+
+Cancer represents a huge burden for health care systems worldwide. The research
+community is working intensively on new treatments. In recent years, new drugs
+that target proteins needed for cancerogenesis have been approved by the Food
+and Drug Administration (FDA, USA). The prescribal of such drugs however needs
+molecular testing. Next-Generation Sequencing (NGS) constitutes an attractive
+method for the identification of the mutational status of cancers. However the
+implementation of this technique  in a diagnostic laboratory is not trivial, as
+it requires state-of-the-art instrumentations, expertise and a sensitive and
+performant bioinformatic pipeline. The Service of Genetics and Molecular Biology
+of the Laboratoire National de Santé (National Laboratory of Health, Luxembourg)
+is trying to implement targeted NGS for diagnostic procedures.  In this master's
+thesis, commercially available cancer gene panels for targeted NGS were compared
+and tested for their potential use in the routine workflow of the lab.
+Additionally, freely available variant calling algorithms were compared for
+their potential implementation in the in-house bioinformatic variant detection
+pipeline.
+
+\subsection{Personalized Medicine}
 
 The accumulation of DNA mutations is a characteristic of tumors. Mutations in a
 cell’s genetic material enable the so-called cancer hallmarks, which include,
 amongst others, capabilities as activating invasion and metastasis, enabling
 replicative immortality, sustaining proliferative signaling or evading growth
 suppressors. Classical anti-cancer treatments are tailored for the \„average
-patient\“ and not for the individual. Traditional cytotoxic chemotherapeutic
-drugs, for instance, are unspecific and have numerous adverse effects [1]: they
-attack rapidly dividing cells and make no difference between healthy and cancer
-cells. For a long time, there was no possibility to predict the success of a
-patient’s cancer treatment. In consequence, the treating clinician had no way to
-personalize the treatment to the individual patient.
+patient\“ and not for the individual person. Traditional cytotoxic
+chemotherapeutic drugs, for instance, are unspecific and have numerous adverse
+effects [1]: they attack rapidly dividing cells and make no difference between
+healthy and cancer cells. For a long time, there was no possibility to predict
+the success of a patient’s cancer treatment. In consequence, the treating
+clinician had no way to personalize the treatment to the individual patient and
+had to follow the one-suits-all approach.
 
 Personalized therapy by identification and targeting of tumor-specific molecular
 abnormalities is rapidly becoming an important component in the management of
@@ -40,34 +60,43 @@ customized healthcare approach is designed to the individual patient by taking
 into account the genetic information from a patient’s tumor biopsy. Targeting
 proteins that give cancer cells a proliferative advantage, instead of simply
 using cytotoxic agents, allows a more specific treatment and might decrease
-treatment-associated side-effects. In the past years, the Food and Drug
-Administration (FDA, USA) has approved several drugs that specifically target
-proteins needed for cancerogenesis [2]. Many of these drugs are now effective
-treatments for several common cancers. In many patients, however, these agents
-might lack any efficiency: cancers are known to be highly heterogenous and
-mutations in some subpopulations of cancer cells make them resistant to the
-treatment [3]. Also, some of these targeted drugs can only be prescribed if the
-targeted protein is not mutated, e.g. in wildtype status. Identifying these
-mutations is thereby an utmost necessity for tailoring a targeted and efficient
-cancer therapy. Amongst the many mutation detection techniques, Next Generation
-Sequencing (NGS) constitutes the most powerful method and allows deep insights
-into the underlying causes of diseases.
+treatment-associated side-effects. In the past years, the FDA has approved
+several drugs that specifically target proteins needed for cancerogenesis [2].
+Many of these drugs are now effective treatments for several common cancers. In
+many patients, however, these agents might lack any efficiency: cancers are
+known to be highly heterogenous and mutations in some subpopulations of cancer
+cells make them resistant to the treatment [3]. Also, some of these targeted
+drugs can only be prescribed if the targeted protein is not mutated, e.g. in
+wildtype status. Identifying these mutations is thereby an utmost necessity for
+tailoring a targeted and efficient cancer therapy. Amongst the many mutation
+detection techniques, Next Generation Sequencing (NGS) constitutes the most
+powerful method and allows deep insights into the underlying causes of diseases.
 
-Critical alterations in cancer cells include single nucleotide variations (SNVs),
-insertions and deletions of one or multiple nucleotides (INDELS), copy number
-variations (CNVs) and rearrangements. Some of these variants are known to
+Critical alterations in cancer cells include single nucleotide variations
+(SNVs), insertions and deletions of one or multiple nucleotides (INDELS), copy
+number variations (CNVs) and rearrangements. Some of these variants are known to
 provide increased sensitivity or resistance to targeted drugs. Whole-genome
 (WGS) and whole-exome sequencing (WES) can detect these variants. These
 experiments however are performed with low-coverage (100--250x in most
 laboratories) and have thereby limited ability to detect somatic cancer variants
 with the required confidence. In fact, cancers accumulate mutations and are
-highly heterogeneous. A given small cancer subpopulation might present variants that
-are absent to the rest of the cancer. This variant might be present at
+highly heterogeneous. A given small cancer subpopulation might present variants
+that are absent to the rest of the cancer. This variant might be present at
 low-frequency and might thereby not be detected in WGS or WES experiments. The
 variant however might provide resistance to the treatment to cells in this
 subpopulation. The cancer would eventually relapse. It is thereby of utmost
 importance to gain deep insights into underlying genetic information to guide an
 effective personalized therapy. This lead to the development of targeted NGS.
+
+The completion of the human genome project and technical advances in the field
+of genetics, in combination with advanced computer performance, enabled
+geneticists and pharmacologists to adopt the personalization of cancer
+diagnostics and treatment. The demand has driven the development of
+high-throughput and faster sequencing: second-generation sequencing methods, or
+NGS. NGS is also called massively parallel sequencing as a massive amount of DNA
+fragments from a single sample are sequenced at the same time. In the last
+decade, several benchtop sequencers have been developed that provide
+high-throughput and cost-effective sequencing.
 
 Next-Generation Sequencing (NGS) is a powerful method to analyze RNA or DNA
 molecules. Improved protocols and methods have been developed in recent years
@@ -78,33 +107,21 @@ is building expertise in NGS and is implementing targeted NGS in its molecular
 pathology laboratory. This implementation aims at gaining deep insights into the
 underlying causes of solid tumors and in guiding targeted cancer therapy.
 
-The completion of the human genome project and technical advances in the field
-of genetics, in combination with advanced computer performance, enabled
-geneticists and pharmacologists to adopt the personalization of cancer
-diagnostics and treatment. The demand has driven the development of
-high-throughput and faster sequencing: second-generation sequencing methods, or
-NGS. NGS is also called massively parallel sequencing
-as a massive amount of DNA fragments from a single sample are sequenced at the
-same time. In the last decade, several benchtop sequencers have been developed
-that provide high-throughput and cost-effective sequencing.
-
 By identifying somatic mutations in cancer samples, NGS can guide personalized
 cancer therapy approaches. The high-quality data produced by NGS can reveal
 associations between several genes implicated in cancer subtypes and is thereby
-of importance in drug development. In addition, it can be implemented in molecular
-diagnostic laboratories to identify patients that would potentially benefit from
-these targeted drugs.
+of importance in drug development. In addition, it can be implemented in
+molecular diagnostic laboratories to identify patients that would potentially
+benefit from these targeted drugs.
 
 Targeted NGS uses gene panels, e.g. only some regions in selected genes are
-sequenced. The reduction of the regions of interest (ROIs) allows to significantly
-increase the coverage. This allows a higher confidence and thereby enables
-the implementation of NGS in diagnostic laboratories.
+sequenced. The reduction of the regions of interest (ROIs) allows to
+significantly increase the coverage. This allows a higher confidence and thereby
+enables the implementation of NGS in diagnostic laboratories.
 
 \subsection{EGFR Signaling in Cancer}
 
 Bla {\cite{targeting_egfr:2012}}
-
-Describe pathway
 
 \begin{figure}[ht]
   \begin{center}
@@ -113,6 +130,22 @@ Describe pathway
     \label{Fig:egfr_signaling}
   \end{center}
 \end{figure}
+
+\begin{table}[!htbp]
+    \caption[Targeted Cancer Agents]{FDA-approved targeted cancer drugs for solid tumors}
+    \centering
+    \begin{tabular}{ |p{4.5cm}|p{2cm}|p{4.5cm}|}
+    \hline
+    Agent & Target(s) & FDA-approved indication(s) \\ \hline \hline
+    Cobimetinib (Cotellic) & MEK & Melanoma (with BRAF V600E or V600K mutation) \\
+    Dabrafenib (Tafinlar) & BRAF & Melanoma (with BRAF V600 mutation) \\
+    Ipilimumab (Yervoy) & CTLA--4 & Melanoma \\
+    Nivolumab (Opdivo) & PD--1 & Melanoma; NSCLC \\
+    Pembrolizumab (Keytruda) & PD--1 & Melanoma; NSCLC (PD-L1+) \\
+    Trametinib (Mekinist) &
+    \hline
+  \end{tabular}
+\end{table}
 
 The samples analyzed in the SGMB originate from patients suffering from solid
 tumors, mainly melanoma, non-small cell lung carcinoma (NSCLC), and colorectal
