@@ -1,11 +1,11 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces Electropherograms of representative sequencing libraries prepared by Agilent Haloplex ClearSeq Cancer and Illumina TruSight Tumor 15. (*) represents the lower marker, (**) represents the upper marker\relax }}{4}{figure.caption.14}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex CSC (High Sensitivity DNA Chip)}}}{4}{subfigure.1.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TST15 (MixA) (DNA 1000 DNA Chip)}}}{4}{subfigure.1.2}
-\contentsline {figure}{\numberline {2}{\ignorespaces Scatter plot of the corrected peak area (X axis) of the regions corresponding to the sequencing libraries defined in the blabla software and the dCt (Y axis). Agilent Haloplex ClearSeq Cancer data are represented as blue dots, Illumina TruSight Tumor 15 data are represented as red dots.\relax }}{5}{figure.caption.15}
-\contentsline {figure}{\numberline {3}{\ignorespaces Comparison of coverage distributions per amplicon as reported by FastQC\relax }}{6}{figure.caption.17}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex ClearSeq Cancer}}}{6}{subfigure.3.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TruSight Tumor 15}}}{6}{subfigure.3.2}
-\contentsline {figure}{\numberline {4}{\ignorespaces Comparison of Coverage Distributions per Amplicon\relax }}{7}{figure.caption.19}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex ClearSeq Cancer}}}{7}{subfigure.4.1}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TruSight Tumor 15}}}{7}{subfigure.4.2}
-\contentsline {figure}{\numberline {5}{\ignorespaces Blablabla\relax }}{10}{figure.caption.24}
+\contentsline {figure}{\numberline {1}{\ignorespaces Electropherograms of representative sequencing libraries prepared by Agilent Haloplex ClearSeq Cancer and Illumina TruSight Tumor 15. (*) represents the lower marker, (**) represents the upper marker\relax }}{5}{figure.caption.14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex CSC (High Sensitivity DNA Chip)}}}{5}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TST15 (MixA) (DNA 1000 DNA Chip)}}}{5}{subfigure.1.2}
+\contentsline {figure}{\numberline {2}{\ignorespaces Scatter plot of the corrected peak area (X axis) of the regions corresponding to the sequencing libraries defined in the blabla software and the dCt (Y axis). Agilent Haloplex ClearSeq Cancer data are represented as blue dots, Illumina TruSight Tumor 15 data are represented as red dots.\relax }}{6}{figure.caption.15}
+\contentsline {figure}{\numberline {3}{\ignorespaces Comparison of coverage distributions per amplicon as reported by FastQC\relax }}{7}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex ClearSeq Cancer}}}{7}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TruSight Tumor 15}}}{7}{subfigure.3.2}
+\contentsline {figure}{\numberline {4}{\ignorespaces Comparison of Coverage Distributions per Amplicon\relax }}{8}{figure.caption.19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Agilent Haloplex ClearSeq Cancer}}}{8}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Illumina TruSight Tumor 15}}}{8}{subfigure.4.2}
+\contentsline {figure}{\numberline {5}{\ignorespaces Blablabla\relax }}{11}{figure.caption.24}

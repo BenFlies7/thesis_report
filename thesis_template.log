@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.10)  11 APR 2016 20:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.10)  12 APR 2016 07:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,7 +566,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.99 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.91 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? 
 )
@@ -674,7 +674,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 ...on}{\numberline {3}Results}{19}{section.3}
+l.27 ...alling Algorithms}{4}{subsubsection.2.2.4}
                                                    [2])
 \tf@toc=\write4
 \openout4 = `thesis_template.toc'.
@@ -720,181 +720,181 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Extra }, or forgotten $.
-<argument> ...{3}{\ignorespaces samtools_flagstat}
+<argument> ...{2}{\ignorespaces samtools_flagstat}
                                                   }\hyper@linkend 
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Extra }, or forgotten $.
-<argument> ...3}{\ignorespaces samtools_flagstat}}
+<argument> ...2}{\ignorespaces samtools_flagstat}}
                                                   \hyper@linkend 
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.3 ...s samtools_flagstat}}{21}{table.caption.20}
+l.2 ...es samtools_flagstat}}{7}{table.caption.18}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Extra }, or forgotten $.
+<argument> ...rline {3}{\ignorespaces failed_halo}
+                                                  }\hyper@linkend 
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Extra }, or forgotten $.
+<argument> ...line {3}{\ignorespaces failed_halo}}
+                                                  \hyper@linkend 
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.3 ...respaces failed_halo}}{8}{table.caption.20}
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...rline {4}{\ignorespaces failed_halo}
                                                   }\hyper@linkend 
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...line {4}{\ignorespaces failed_halo}}
                                                   \hyper@linkend 
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.4 ...espaces failed_halo}}{22}{table.caption.22}
+l.4 ...respaces failed_halo}}{9}{table.caption.21}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...rline {5}{\ignorespaces failed_halo}
                                                   }\hyper@linkend 
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...line {5}{\ignorespaces failed_halo}}
                                                   \hyper@linkend 
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.5 ...espaces failed_halo}}{23}{table.caption.23}
+l.5 ...espaces failed_halo}}{11}{table.caption.22}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...rline {6}{\ignorespaces failed_halo}
-                                                  }\hyper@linkend 
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...line {6}{\ignorespaces failed_halo}}
-                                                  \hyper@linkend 
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.6 ...espaces failed_halo}}{25}{table.caption.24}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...{\ignorespaces sensitivity_analysis}
                                                   }\hyper@linkend 
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 ! Extra }, or forgotten $.
 <argument> ...\ignorespaces sensitivity_analysis}}
                                                   \hyper@linkend 
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.7 ...ensitivity_analysis}}{26}{table.caption.25}
+l.6 ...ensitivity_analysis}}{12}{table.caption.23}
                                                   
 ? 
 )
@@ -903,12 +903,29 @@ l.7 ...ensitivity_analysis}}{26}{table.caption.25}
 
  [3] (./intro.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 22.
+(Font)              scaled to size 11.03998pt on input line 27.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 22.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 22.
-) (./methods.tex
+(Font)              scaled to size 11.03998pt on input line 27.
+
+
+! Package inputenc Error: Unicode char \u8:β not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50     TGF--β
+                . p53 and its coding gene TP53 are well-known to be master r...
+
+? 
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 
+      [1]) (./methods.tex
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 5.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsphv.fd
@@ -916,18 +933,13 @@ File: omsphv.fd
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.7 \item P
-           resent econometric/statistical estimation method and [1]
+ [2]
 ! Misplaced alignment tab character &.
 l.24 ...sed as some kind of good quality samples &
                                                    to see if there
 ? 
-[2] [3]) (./results.tex
-<fastq_halo_forward.png, id=261, 842.14626pt x 601.24625pt>
+[3] [4]) (./results.tex
+<fastq_halo_forward.png, id=260, 842.14626pt x 601.24625pt>
 File: fastq_halo_forward.png Graphic file (type png)
 
 <use fastq_halo_forward.png>
@@ -944,7 +956,7 @@ File: fastq_halo_forward.png Graphic file (type png)
 Package pdftex.def Info: fastq_halo_forward.png used on input line 15.
 (pdftex.def)             Requested size: 198.45662pt x 141.68738pt.
 
-<graph.pdf, id=262, 361.35pt x 303.1325pt>
+<graph.pdf, id=261, 361.35pt x 303.1325pt>
 File: graph.pdf Graphic file (type pdf)
  <use graph.pdf>
 Package pdftex.def Info: graph.pdf used on input line 21.
@@ -972,19 +984,19 @@ File: fastq_halo_forward.png Graphic file (type png)
 Package pdftex.def Info: fastq_halo_forward.png used on input line 60.
 (pdftex.def)             Requested size: 220.50885pt x 157.43042pt.
 
-<fastq_tst15_forward.png, id=263, 820.06375pt x 594.22pt>
+<fastq_tst15_forward.png, id=262, 820.06375pt x 594.22pt>
 File: fastq_tst15_forward.png Graphic file (type png)
 
 <use fastq_tst15_forward.png>
 Package pdftex.def Info: fastq_tst15_forward.png used on input line 62.
 (pdftex.def)             Requested size: 220.50885pt x 159.77965pt.
- [4 <./fastq_halo_forward.png>] [5 <./graph.pdf>]
+ [5 <./fastq_halo_forward.png>] [6 <./graph.pdf>]
 
-LaTeX Warning: Reference `table:samtools_flagstat' on page 6 undefined on input
+LaTeX Warning: Reference `table:samtools_flagstat' on page 7 undefined on input
  line 87.
 
-[6 <./fastq_tst15_forward.png>]
-<distribution_amplicons_hap_csc.png, id=292, 1107.1764pt x 864.3492pt>
+[7 <./fastq_tst15_forward.png>]
+<distribution_amplicons_hap_csc.png, id=286, 1107.1764pt x 864.3492pt>
 File: distribution_amplicons_hap_csc.png Graphic file (type png)
 
 <use distribution_amplicons_hap_csc.png>
@@ -997,13 +1009,13 @@ File: distribution_amplicons_hap_csc.png Graphic file (type png)
 Package pdftex.def Info: distribution_amplicons_hap_csc.png used on input line 
 111.
 (pdftex.def)             Requested size: 220.50885pt x 172.14139pt.
- [7 <./distribution_amplicons_hap_csc.png>]
+ [8 <./distribution_amplicons_hap_csc.png>]
 Overfull \hbox (51.06075pt too wide) in paragraph at lines 174--179
 \OT1/phv/m/n/10.95 re-quired cov-er-age thresh-olds is prob-lem-atic. This is e
 s-pe-cially the case for am-pli-con 1EGFRxxE21TF035SR035
  []
 
-[8]
+[9]
 Overfull \hbox (1.21492pt too wide) in paragraph at lines 224--224
 []\OT1/phv/m/n/10.95 Tissue| 
  []
@@ -1068,7 +1080,7 @@ Overfull \hbox (23.87932pt too wide) in paragraph at lines 253--271
  [][] 
  []
 
-<var_freqs.png, id=306, 968.61874pt x 295.1025pt>
+<var_freqs.png, id=299, 968.61874pt x 295.1025pt>
 File: var_freqs.png Graphic file (type png)
  <use var_freqs.png>
 Package pdftex.def Info: var_freqs.png used on input line 275.
@@ -1078,7 +1090,7 @@ Overfull \hbox (43.29047pt too wide) in paragraph at lines 275--276
  [] 
  []
 
-[9] [10 <./var_freqs.png>]) (./conc.tex
+[10] [11 <./var_freqs.png>]) (./conc.tex
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -1089,84 +1101,45 @@ Type  H <return>  for immediate help.
 l.5 \end{itemize}
                  
 ? 
-) [11] (./thesis_template.bbl
+) [12] (./thesis_template.bbl
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 10.07397pt on input line 6.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
- [12]
+ [13]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
  (./thesis_template.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
+Package rerunfilecheck Info: File `thesis_template.out' has not changed.
+(rerunfilecheck)             Checksum: A8562B4F6DA0B248F603DA8F02302F1F;2441.
 
-
-Package rerunfilecheck Warning: File `thesis_template.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis_template.out':
-(rerunfilecheck)             Before: 35E40765A9FACA77705DEB17633E670E;2352
-(rerunfilecheck)             After:  A8562B4F6DA0B248F603DA8F02302F1F;2441.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 8553 strings out of 493089
- 125639 string characters out of 6134842
- 343068 words of memory out of 5000000
- 11793 multiletter control sequences out of 15000+600000
+ 8545 strings out of 493089
+ 125511 string characters out of 6134842
+ 343021 words of memory out of 5000000
+ 11794 multiletter control sequences out of 15000+600000
  21438 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,10n,47p,433b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subfigure.2.2} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subfigure.2.1} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.25} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.24} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.8} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.26} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.21} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.16} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.7} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.1.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on thesis_template.pdf (19 pages, 288177 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-
+dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on thesis_template.pdf (20 pages, 289811 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 335 compressed objects within 4 object streams
- 92 named destinations out of 1000 (max. 500000)
- 282 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 
