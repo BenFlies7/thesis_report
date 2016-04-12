@@ -2,39 +2,39 @@
 \contentsline {section}{List of Figures}{ii}{table.caption.4}
 \contentsline {section}{List of Tables}{iii}{section*.5}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Cancer Genetics}{1}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Targeting the EGFR Pathway in Solid Tumors}{2}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Targeted Sequencing}{3}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Target Enrichment Methods}{3}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Illumina Sequencing Chemistry}{3}{subsubsection.1.3.2}
-\contentsline {subsection}{\numberline {1.4}NGS Data Analysis}{3}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}GATK Best Practices}{3}{subsubsection.1.4.1}
-\contentsline {subsection}{\numberline {1.5}Practical Implications in the Laboratory}{3}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}Aims of the Thesis}{3}{subsection.1.6}
-\contentsline {section}{\numberline {2}Material and Methods}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Library Preparation}{3}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Patients}{3}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}DNA Extraction, Quantification and Quality Control}{3}{subsubsection.2.1.2}
-\contentsline {paragraph}{DNA Extraction}{3}{section*.7}
-\contentsline {paragraph}{Quantification}{4}{section*.8}
-\contentsline {paragraph}{Quality Control}{4}{section*.9}
-\contentsline {subsubsection}{\numberline {2.1.3}Agilent Haloplex ClearSeq Cancer}{4}{subsubsection.2.1.3}
-\contentsline {subsubsection}{\numberline {2.1.4}Illumina TruSight Tumor 15}{4}{subsubsection.2.1.4}
-\contentsline {subsection}{\numberline {2.2}Bioinformatic Analysis}{4}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Agilent SureCall}{4}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Illumina BaseSpace TruSight Tumor 15 App}{4}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Custom In-House Pipeline (Velona)}{4}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Variant Calling Algorithms}{4}{subsubsection.2.2.4}
-\contentsline {paragraph}{GATK HaplotypeCaller}{4}{section*.10}
-\contentsline {paragraph}{VarScan 2}{4}{section*.11}
-\contentsline {paragraph}{Mutect1.1.7}{4}{section*.12}
-\contentsline {paragraph}{SomVarIUS}{4}{section*.13}
-\contentsline {section}{\numberline {3}Results}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Sample Preparation}{5}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}NGS Data Quality}{5}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Coverage Analysis}{8}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Variant Calling Algorithm Comparison}{10}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Detection of Known Single Nucleotide Variants and Deletions}{10}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Sensitivity Analysis}{10}{subsubsection.3.4.2}
-\contentsline {section}{\numberline {4}Conclusions}{12}{section.4}
-\contentsline {section}{References}{13}{section.4}
+\contentsline {subsection}{\numberline {1.1}Targeting Cancer}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Targeting the EGFR Pathway in Solid Tumors}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Targeted Sequencing}{4}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Target Enrichment Methods}{5}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Illumina Sequencing Chemistry}{5}{subsubsection.1.3.2}
+\contentsline {subsection}{\numberline {1.4}NGS Data Analysis}{5}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}GATK Best Practices}{5}{subsubsection.1.4.1}
+\contentsline {subsection}{\numberline {1.5}Practical Implications in the Laboratory}{5}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Aims of the Thesis}{5}{subsection.1.6}
+\contentsline {section}{\numberline {2}Material and Methods}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Library Preparation}{5}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Patients}{5}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}DNA Extraction, Quantification and Quality Control}{5}{subsubsection.2.1.2}
+\contentsline {paragraph}{DNA Extraction}{5}{section*.7}
+\contentsline {paragraph}{Quantification}{5}{section*.8}
+\contentsline {paragraph}{Quality Control}{6}{section*.9}
+\contentsline {subsubsection}{\numberline {2.1.3}Agilent Haloplex ClearSeq Cancer}{6}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Illumina TruSight Tumor 15}{6}{subsubsection.2.1.4}
+\contentsline {subsection}{\numberline {2.2}Bioinformatic Analysis}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Agilent SureCall}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Illumina BaseSpace TruSight Tumor 15 App}{6}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Custom In-House Pipeline (Velona)}{6}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Variant Calling Algorithms}{6}{subsubsection.2.2.4}
+\contentsline {paragraph}{GATK HaplotypeCaller}{6}{section*.10}
+\contentsline {paragraph}{VarScan 2}{6}{section*.11}
+\contentsline {paragraph}{Mutect1.1.7}{6}{section*.12}
+\contentsline {paragraph}{SomVarIUS}{6}{section*.13}
+\contentsline {section}{\numberline {3}Results}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Sample Preparation}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}NGS Data Quality}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Coverage Analysis}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Variant Calling Algorithm Comparison}{12}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Detection of Known Single Nucleotide Variants and Deletions}{12}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Sensitivity Analysis}{12}{subsubsection.3.4.2}
+\contentsline {section}{\numberline {4}Conclusions}{14}{section.4}
+\contentsline {section}{References}{15}{section.4}
