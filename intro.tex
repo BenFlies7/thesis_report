@@ -26,16 +26,15 @@
 
   \subsection{Targeting Cancer}
 
-    It is widely accepted that cancer is a disease caused by genomic instability.
-    The genetic diversity caused by this instability, in combination with several
-    environmental factors, such as inflammation, enables the hallmarks of cancer
-    (Hallmarks of Cancer: The Next Generation). These include replicative
-    immortality, cell death resistance, ongoing proliferative signaling,
-    invasion and metastasis, growth suppressor evasion, inducement of
-    angiogenesis, energy metabolism reprogramming and immune destruction evasion.
-
     Virtually all cancers tend to accumulate mutations during their progression.
-    Genomic instability is one of the cardinal features of cancer.
+    The genetic diversity caused by this instability, the cardinal feature of
+    cancer, in combination with several environmental factors, such as
+    inflammation, enables the hallmarks of cancer (Hallmarks of Cancer: The Next
+    Generation). These include replicative immortality, cell death resistance,
+    ongoing proliferative signaling, invasion and metastasis, growth suppressor
+    evasion, inducement of angiogenesis, energy metabolism reprogramming and
+    immune destruction evasion.
+
     Cancer development is considered to be a state of imbalance between the
     occurrence of mutations and cell-cycle control mechanisms. In many cancers,
     several pathways contribute to the abnormal cell growth: chromosomal
@@ -53,7 +52,7 @@
     Many alterations found in cancer cells are passenger mutations, e.g. do not
     contribute to the selective fitness of the cell. Driver mutations, often
     happening on oncogenes or tumor suppressor genes, promote the cell's
-    fitness. This view recognizes Darwinian evolution principles. The
+    fitness. This concept recognizes Darwinian evolution principles. The
     heterogeneous  population of cancer cells harbors cells with different
     random somatic and non-deleterious mutations and exhibits different
     perturbations. Cells with the best fitness, e.g. with the highest
@@ -61,19 +60,25 @@
     through natural selection principles. These cells will outlast less fit
     cells. This results in  sequential waves of clonal expansion, leading to
     different subclones within the same tumor that differ in their
-    proliferative, migrative and invasive potential.
+    proliferative, migrative and invasive potential. The hypothesis that
+    passenger mutations that occur subsequently or coincidentally to driver
+    mutations do not influence the cell's fitness at all has been
+    challenged by stochastic tumor evolution simulations (citat). Since then,
+    it has been proposed that, even though the individual effect may be
+    small, the cooperation of multiple accumulated small-scale passenger
+    mutations plays a present role in cancer development and progression.
 
     Genomic instability in cancerous cells becomes a critical mechanism if it
     affects oncogenes or tumor suppressor genes. Tumor suppressor genes protect
-    a cell from entering the path to cancer. Tumor suppressor genes comprise
+    a cell from entering the path to cancer. They comprise
     genes encoding for cell adhesion proteins,  DNA repair proteins, proteins
     acting in apoptosis pathways, or or cell cycle proteins. The action of these
-    proteins inhibits metastasis, cell survival or proliferation. Tumor
+    proteins inhibits metastasis, excessive cell survival or proliferation. Tumor
     suppressors mostly follow the two-hit hypothesis, which was first proposed
     by Knudson  for the retinoblastoma protein (pRb): to inactivate the
-    tumor-protecting role of these genes and their proteins, two genetic events,
+    tumor-protecting role of tumor suppressors, two genetic events,
     often LOH in  combination with silencing point mutations, are necessary to
-    inactivate both alleles of the protein. Another possibility of tumor
+    inactivate both alleles of the gene. Another possibility of tumor
     suppressor inactivation is methylation of the gene promoter. Compared to
     dominant oncogenes, tumor suppressor genes are often considered to be
     recessive. Alternatively, tumor progression can be influenced by functional
@@ -82,27 +87,80 @@
     cannot  produce enough of a gene product to establish a wild-type condition.
     Oncogenes comprise several GTPases, transcription factors, receptor tyrosine
     kinases and growth factors. Overexpressed or overactive versions of these
-    proteins often lead to increased mitogenic signals, leading to increased
-    cell growth or proliferation. Mutations in proto--oncogenes can lead to a
+    proteins often lead to increased mitogenic signals, causing increased
+    cell growth or proliferation. Mutations in proto--oncogenes can cause a
     loss of regulation or overactive proteins. Gene duplications or other
     chromosomal alterations lead to increased protein synthesis. Other
     mechanisms of importance include post-transcriptional mechanisms as
     misregulation of protein expression or increase of mRNA / protein stability.
 
     The EGFR signaling pathway is an oncogenic pathway frequently altered in
-    many cancers. EGFR signaling promotes cell survival and proliferation.
+    many cancers. EGFR signaling promotes metastasis, invasion, cell survival
+    and proliferation by activating the RAS-RAF-MAPK and PI3K-Akt pathways. EGFR
+    is part of the family of receptor tyrosine kinases. This transmembrane
+    protein is composed of an intracytoplasmic tyrosine kinase domain, a short
+    hydrophobic transmembrane region and an extracellular ligand-binding domain.
+    Ligand (EGF, TGFα) binding causes homo-- or heterodimerization, followed by
+    an auto-- and cross--phosphorylation of key tyrosine residues on its
+    cytoplasmic domain. This forms docking sites for cytoplasmic proteins that
+    contain phosphotyrosine-binding and Src homology 2 domains.Activation of
+    PTEN/PI3K/AKT leads to cell growth, proliferation and survival, while
+    RAS-RAF-MAPK induces cell survival and cell cycle progression and
+    proliferation. In the RAS-Raf-MAPK pathway, Grb2 and Sos, two adaptor
+    proteins, form a complex with the activated EGFR. The resulting
+    conformational change of Sos recruits Ras-GDP, which in turn becomes
+    activated to form Ras-GTP. Ras-GTP activates Raf, which, in intermediate
+    steps, phosphorylates a MAPK (mitogen-activated protein kinase). Activated
+    MAPKs are then imported from the cytoplasm into the nucleus where they act
+    on target genes. +++ PTEN/PI3K/AKT
 
-    Pathway erklären.
+    Many cancers have been shown to be dependent on EGFR signaling: they
+    overexpress EGFR or to harbor activating mutations in EGFR or downstream
+    proteins, both leading to increased mitogenic signals. Targeting the EGFR
+    signaling pathway is an attractive target blabla and has been of benefit in
+    solid tumors, e.g. melanoma, CRC and NSCLC. Advantages have been made better
+    survival rates. shutting egfr down -> apoptosis. but 2 problems: resistances &
+    not all mutations are actionable. therefore: molecular testing. the more
+    comprehensible, the better. classical approaches only target some hotspot
+    regions. NGS has the potential to give really deep insights
 
-    Many cancers have been shown to overexpress EGFR or to harbor activating
-    mutations in EGFR or downstream proteins, both leading to increased
-    mitogenic signals. Targeting the EGFR signaling pathway is an attractive
-    target blabla and has been of benefit in solid tumors, e.g. melanoma, CRC
-    and NSCLC. Melanoma, colorectal cancers and non-small cell lung cancer
-    (NSCLC) are often dependent on EGFR signaling. Shutting down -> apoptosis.
+    \begin{table}[!htbp]
+        \caption[Occurrence of mutations]{EGFR signaling pathway components affected in colorectal cancer, melanoma and non-small cell lung carcinoma}
+        \centering
+        \begin{tabular}{ |p{4cm}|p{3.7cm}|p{6.3cm}|}
+        \hline
+        Gene & Frequency in CRC (\%) & Frequency in Melanoma & Frequency in NSCLC \\ \hline \hline
+        EGFR & NA & NA & 10--35 \\
+        KRAS & 36--40 & 2 & 15--25 \\ (http://www.nature.com/bjc/journal/v112/n2/full/bjc2014476a.html)
+        NRAS & 1--6 & 13--25 & 1 \\
+        BRAF & 8--15 & 37--50 & 1--3 \\
+        PTEN & 5--14 & NA & 4--8 \\
+        PIK3CA & 10--30 & & 1--3 \\
+        \hline
+      \end{tabular}
+    \end{table}
 
 
-    maybe a little about resistances
+    \begin{table}[!htbp]
+        \caption[Targeted Cancer Agents]{FDA-approved cancer drugs for solid tumor treatment that target the EGFR pathway}
+        \centering
+        \begin{tabular}{ |p{4cm}|p{3.7cm}|p{6.3cm}|}
+        \hline
+        Agent & Target(s) & FDA-approved indication(s) \\ \hline \hline
+        Afatinib (Gilotrif) & EGFR (HER1/ERBB1), HER2 (ERBB2/neu) & NSCLC (with EGFR del19 or L858R) \\
+        Cetuximab (Erbitux) & EGFR (HER1/ERBB1) & Colorectal cancer (KRAS WT) \\
+        Cobimetinib (Cotellic) & MEK & Melanoma (with BRAF V600E or V600K \\
+        Dabrafenib (Tafinlar) & BRAF & Melanoma (with BRAF V600 mutation) \\
+        Erlotinib (Tarceva) & EGFR (HER1/ERBB1) & NSCLC \\
+        Gefitinib (Iressa) & EGFR (HER1/ERBB1) & NSCLC (with EGFR del19 or L858R) \\
+        Necitumumab (Portrazza) & EGFR (HER1/ERBB1) & Squamous NSCLC \\
+        Osimertinib (Tagrisso) & EGFR & NSCLC (with EGFR T790M) \\
+        Panitumumab (Vectibix) & EGFR (HER1/ERBB1) & Colorectal cancer (KRAS WT) \\
+        Trametinib (Mekinist) & MEK & Melanoma (with BRAF V600) \\
+        Vemurafenib (Zelboraf) & BRAF & Melanoma (with BRAF V600) \\
+        \hline
+      \end{tabular}
+    \end{table}
 
   \subsection{Targeted Sequencing}
 
