@@ -1,0 +1,700 @@
+\section{Introduction}
+
+  Cancer represents a huge burden for health care systems worldwide and is one
+  of the leading death causes. Scientific discoveries in the last decade have
+  had an enormous impact on our understanding of the underlying causes of
+  cancer. The development of omics techniques, in combination with advanced
+  computational power, has lead to an explosion of biological data. It has
+  become clear that cancer is an incredibly complex malignancy, which is
+  affected by genetic, environmental and behavioural factors. The research
+  community is trying to interprete this vast amount of data with the goal to
+  get a deeper understanding of cancer and to cure it eventually. In recent
+  years, several drugs have been approved, which target proteins needed for
+  cancer development, proliferation or metastasis. Molecular testing is employed
+  to check whether these targeted drugs would be of benefit. In that regard,
+  Next-Generation Sequencing (NGS) is an interesting method to gain deep
+  insights into the genetic information of a tumor and to guide personalized
+  therapy.
+
+  \subsection{Cancer Genetics}
+
+    DNA in virtually all cells undergoes continuous damage. In normal cells, this
+    damage is repaired without without errors. In cancer cells, the equilibrium
+    between DNA damage and repair systems is dysbalanced, leading to a mutator
+    phenotype. The resulting genomic instability manifests itself in an
+    accumulation of mutations.
+
+    The genetic diversity caused by this instability, the cardinal feature of
+    cancer, in combination with several environmental factors, such as
+    inflammation, enables the hallmarks of cancer (Hallmarks of Cancer: The Next
+    Generation). These include replicative immortality, cell death resistance,
+    ongoing proliferative signaling, invasion and metastasis, growth suppressor
+    evasion, inducement of angiogenesis, energy metabolism reprogramming and
+    immune destruction evasion.
+
+    \textbf{Mutations caused by DNA damage:} DNA can be damaged by endogenous
+    and environmental agents. Carcinogenic substances produced by industry or
+    present in tobacco smoke increase cancer risk. Cellular metabolic processes
+    also produce DNA-damaging products, such as reactive oxygen species. Several
+    cellular DNA repair systems have emerged, such as the nucleotide excision or
+    base excision pathways. DNA lesions can escape these repair mechanisms if
+    the damage happens in an inaccessible region of the DNA. Also, the repair
+    systems cannot cope with the rate of mutation if the frequency at which they
+    occur becomes to important. These DNA lesions, if not repaired, then induce
+    errors in the replication by DNA polymerases.
+
+    \textbf{Mutations caused by misincorporation by DNA polymerase:} The process
+    of DNA replication is not free from errors. It has been estimated that DNA
+    polymerase has error rates ranging from 10\textsuperscript{-4} to
+    10\textsuperscript{-6}. This is followed by mismatch repair, which is often
+    intrinsic to the polymerase. Their 3'->5' exonuclease activity allows
+    excision of 90-99[^\% of misincorporated bases, decreasing the overall error
+    rate to 10\textsuperscript{-6} -- 10\textsuperscript{-8}. Additionally,
+    several DNA polymerases exist, which differ in their error rates. DNA
+    polymerase $\beta$ has a much worse error rate than DNA polymerase $\delta$
+    or $\epsilon$. There is evidence that these enzymes can be used
+    interchangeabily, and that DNA $\beta$ is increased in some tumors. This
+    leads to more errors, resulting in increased mutagenesis.
+
+    \subsubsection{Genomic instability in cancer}
+
+      \textbf{Chromosomal instability (CIN)} is the most common kind of
+      instability in solid tumors and is one of their hallmarks. It has been
+      postulated that chromosome missegregation plays a crucial role in cancer
+      adaptation. Chromosome segregation during mitosis requires proper
+      attachment of microtubules at the kinetochores. Several proteins are
+      involved in this process. Defects in these proteins lead to chromosome
+      missegregation. This leads to telomere dysfunction,  faulty sister
+      chromatid cohesion, loss of heterozygosity (LOH), hypo-- or hyperactive
+      spindle assembly checkpoint or defective centrosome duplication. Another
+      chromosomal instability process has been described recently:
+      chromothripsis happens when chromosomes are fragmented. The cell tries to
+      repair the chromosomes, but this process is far from being perfect,
+      leading to massive chromosomal rearrangements. About 70\% of solid tumors
+      are aneuploid. Aneuploidy has been correlated to increased tumor
+      aggressiveness and advanced cancer stages. The question whether CIN is a
+      cause or consequence of tumor development remains unanswered.
+
+      A common observation caused by CIN is the loss of 18q, which includes
+      genes coding for SMAD2, SMAD4 and DCC. 18q LOH has been associated
+      with poor survival. DCC is a cell surface receptor and
+      is involved with apoptosis and cell-adhesion. Both SMAD2 and SMAD4 are acting
+      in the TGF-b signaling pathway, which has tumor-suppressing properties.
+      LOH of these genes, followed by a somatic inactivating point mutation,
+      leads to the inactivation of these genes, thereby vanishing the
+      tumor protecting role of these proteins ('two-hit hypthesis'). Similarly,
+      the loss of 17p affects the important tumor suppressor gene TP53,
+      the 'guardian of the genome'.
+
+      \textbf{Microsatellite instability (MSI)} is less common than CIN, but
+      still occurs in 15\% of CRCs.  Microsatellites are short DNA segments with
+      tandem repeats. About 500,000 of microsatellites are estimated in the
+      human genome. Microsatellite elongation or shortening is a consequence of
+      defective or inactive DNA mismatch repair (MMR), which corrects base
+      replication errors. Seven enzymes contribute to the MMR system (MLH1,
+      MLH3, MSH2, MSH3, MSH6, PMS1, PMS2). Germline mutations in MMR genes cause
+      the Lynch syndrome (hereditary nonpolypsos colorectal cancer). Patients
+      have an 80\% lifetime risk to develop colon cancer.Germline LOH of one
+      allele with somatic inactivation on the other allele or double allelic
+      inactivation by somatic mutations of these genes can cause MSI. The most
+      common reason for MMR inactivation is through methylation of the promoter
+      of the MLH1 gene. DNA polymerase has a higher error rate in repetitive
+      regions. When MMR genes are inactivated or defective, the replication
+      mistakes in microsatellites cannot be corrected: MSI is the consequence.
+      In some cancers, MSI can occur despite functional MMR through frameshift
+      mutations at microsatellites. MSI is often associated with cancers
+      harboring mutations in TGFβRII, EGFR, PTEN, and BAX, which contain such
+      simple repeats.
+
+      prognosis
+
+      \textbf{CpG island methylator phenotype (CIMP)} is caused by epigenetic
+      processes. CpG islands are regions with high CpG dinucleotide content.
+      CpG islands are common in gene promoters. In normal tissue, CpG islands in
+      gene promoters tend to be not methylated. In cancer cells, CpG islands are
+      often found to be methylated. DNA methylation is an epigenetic process,
+      that, if it occurs in gene promoters, leads to transcriptional silencing
+      of genes. Several apoptosis, DNA repair, tumor suppressor and cell cycle
+      genes have been found to be silenced by DNA methylation in cancer cells.
+
+      prognosis
+
+
+    \subsubsection{Mutator phenotype}
+
+    \subsubsection{Tumor heterogeneity}
+
+    Tumor instability and the accumulation of mutations presents a major problem
+    in cancer therapy. Chemotherapy, for instance, can induce an environment where
+    chemotherapy sensitive cells are killed, while resistant cells can survive.
+    These resistant clones are often the source of relapses and the
+    chemotherapeutic agent will lose its efficiency. It is thereby of utmost
+    necessity to hit the tumor as fast and as hard as possible. Due to the
+    cancer's heterogeneity, a combination of several therapeutic methods and
+    agents often yields the best results.
+
+    \subsubsection{Driver and passenger mutations}
+
+      Genomic instability in cancerous cells becomes a critical mechanism if it
+      affects oncogenes or tumor suppressor genes, which have the potential to
+      be tumor 'driver' mutations. Many alterations found in cancer cells are
+      passenger mutations, e.g. do not contribute to the selective fitness of
+      the cell. Driver mutations, often happening on oncogenes or tumor
+      suppressor genes, promote the cell's fitness. The heterogeneous population
+      of cancer cells harbors cells with different random somatic and
+      non-deleterious mutations. Each cell exhibits a unique combination of
+      genetic and environmental perturbations. Cells are in competition for a
+      variety of resources, which include space, oxygen and nutrients.
+      Eventually, cells with the best fitness, e.g. with the highest
+      proliferative potential  and the lowest death rate, are then selected
+      through natural selection principles. These cells will outlast less fit
+      cells. This results in sequential waves of clonal expansion, leading to
+      different subclones within the same tumor that differ in their
+      proliferative, migrative and invasive potential. The hypothesis that
+      passenger mutations, that occur subsequently or coincidentally to driver
+      mutations, do not influence the cell's fitness at all has been challenged
+      by stochastic tumor evolution simulations. Since then, it has been
+      proposed that, even though the individual effect may be small, the
+      cooperation of multiple accumulated small-scale passenger mutations might
+      play present role in cancer development and progression.
+
+      \paragraph{Tumor suppressors}
+
+      Tumor suppressor genes protect a cell from entering the path to cancer.
+      They comprise genes encoding for cell adhesion proteins,  DNA repair
+      proteins, proteins acting in apoptosis pathways, or cell cycle proteins.
+      The action of these proteins inhibits metastasis, excessive cell survival
+      or proliferation. Tumor suppressors mostly follow the two-hit hypothesis,
+      which was first proposed by Knudson  for the retinoblastoma protein (pRb):
+      to inactivate the tumor-protecting role of tumor suppressors, two genetic
+      events, often LOH in  combination with silencing point mutations or
+      silencing of both alleles by somatic events, are necessary to inactivate
+      both alleles of the gene. Another possibility of tumor suppressor
+      inactivation is methylation of the gene promoter. Compared to dominant
+      oncogenes, tumor suppressor genes are often considered to be recessive.
+      Alternatively, tumor progression can be influenced by functional
+      haploinsufficiency. According to this conception, a disease state can
+      emerge if a cell / organism has only one functional copy of a given gene
+      and if it cannot  produce enough of a gene product to establish a
+      wild-type condition.
+
+      \textbf{APC:} Adenomatous Polyposis Coli (APC) gene codes for a 312 kDa
+      protein. This multi--domain protein has binding sites for microtubules,
+      cytoskeletal regulator proteins (IQGAP1, EB1) and Wnt signaling proteins
+      (b -catenin, axin). 60\% of APC mutations in cancer present a
+      C-terminal truncation, resulting in a loss of b--catenin and
+      microtubule binding sites. Wnt signaling regulates, amongst others, cell
+      migration, polarity, differentiation, adhesion and apoptosis. In the
+      canonical Wnt signaling pathway, a destruction complex, including axin,
+      GSK3, CK1a, PP2A and APC, leads to b--catenin phosphorylation,
+      followed by ubiquitination, marking it for degradation in the proteasome.
+      Additionally, transcription factors of the TCF/LEF family form a complex
+      with factors such as Groucho and histone deacetylases. This complex binds
+      to Wnt signaling target genes and thereby represses gene expression. Once
+      Wnt binds to the N-terminus of a cell surface receptor of the Frizzled
+      family of receptors and and a co-receptor of the LRP5/6 family, the
+      destruction complex is inhibited. Consequently, b--catenin is no
+      longer marked for degradation and can translocate to the nucleus. There it
+      displaces the factors binding to TCF/LEF and forms a complex with TCF/LEF,
+      leading to activation of gene expression of target genes. Loss or
+      dysfunction of APC leads to b--catenin accumulation in the nucleus
+      even in the absence of  an extracellular stimulus. APC mutations are suspected to be the initiating event in many CRCs. APC
+      mutations are sufficient for the growth of benign colorectal tumors.
+
+      \textbf{TP53:} TP53 is one of the master guardians of the genome. In
+      normal situations, p53, the protein encoded by TP53, is regulated by MDM2,
+      MDM4 and E3--ubiquitin ligase, which target p53 for ubiquitination and
+      degradation in the proteasome. In case of cellular stress, p53 is no
+      longer ubiquitinated. p53 becomes activated in several situations, which
+      include  DNA damage, osmotic shock, oxidative stress or oncogene
+      expression. In such situations, p53 can then stop the cell cycle at the
+      G1/S and G2/M transitions, induce DNA repair, and induce apoptosis if the
+      damage cannot be repaired. TP53 thereby maintains genomic stability.
+
+      One mechanism by which p53 acts on cell-cycle arrest is by activating
+      expression of p21. p21 binds to the G1/S transition complex, formed by
+      CDK4/CDK6, CDK2, CDK1) and inhibits its activity, leading to cell-cycle
+      arrest. Inactivation or mutation of TP53 is a crucial step in many
+      cancers. A defective p53 does not bind efficiently to DNA, resulting in
+      less p21 expression. As a consequence, p21 cannot act as a cell-cycle stop
+      signal.
+
+      The importance of TP53 as tumor suppressor gene becomes evident in the
+      autosomal dominant Li--Fraumeni syndrome. People suffering from this disorder inherit only
+      one functional copy of TP53 and are likely to develop cancer in early
+      ages.
+
+      TP53 mutations are found in 50\% of CRCs,
+      especially those associated with the methylator phenotype and
+      microsatellite instability. Alterations in TP53 are associated with poor
+      prognosis if treated with chemotherapy. In fact, wild-type TP53 is
+      required for treatment with chemotherapy based on 5-fluoroacil.
+
+      TP53 alterations are the early events in lung carcinogenesis
+
+      \paragraph{Oncogenes}
+
+      Oncogenes comprise several GTPases, transcription factors, receptor tyrosine
+      kinases and growth factors. Overexpressed or overactive versions of these
+      proteins often lead to increased mitogenic signals, causing increased
+      cell growth or proliferation. Mutations in proto--oncogenes can cause a
+      loss of regulation or overactive proteins. Gene duplications or other
+      chromosomal alterations lead to increased protein synthesis. Other
+      mechanisms of importance include post-transcriptional mechanisms as
+      misregulation of protein expression or increase of mRNA / protein stability.
+
+      In the RAS-RAF-MAPK pathway, GRB2 binds to Tyr1068 of EGFR through their
+      SH2 domain and recruits SOS, a guanine nucleotide exchange factor. Grb2
+      and SOS then form a complex with the activated EGFR, which activates SOS.
+      Activates SOS, through its GEF activity, then induces GDP removal from Ras
+      proteins, which can subsequently bind GTP and become active. Ras then
+      activates Raf serine/threonine kinase proteins, which phosphorylate and
+      thereby activate MEKs, which are tyrosine/threonine kinases. Activated
+      MEKS then phosphorylate and activate MAPKs, also serine/threonine kinases.
+      MAPKs then act on the expression of target genes that promote cell survival,
+      cell cycle progression and proliferation.
+
+  \subsection{Targeting the EGFR signaling pathway}
+
+    \subsubsection{Molecular Profiling of Solid Tumors}
+
+      \textbf{Lung cancer} is the most common cancer worldwide, both in terms of
+      new cases (1.8 million) and deaths (1.6 million). Smoking is a widely
+      accepted risk factor, as chemical carcinogens in tobacco smoke induce
+      several genetic mutations. Oncogenic triggers cause cells of the normal
+      bronchial epithelium to proliferate, giving rise to meta--, hyper-- and
+      dysplastic epithelial lesions. Classic diagnosis and treatment decisions
+      have relied on histological analysis of the tumor. Lung cancer can be
+      divided into two histological subtypes: small-cell lung cancer (SCLL) and
+      non-small cell lung cancer (NSCLC). Over the last decade, it has become
+      clear that these subtypes can be classified into  additional classes by
+      the mutational status of recurrent driver mutations in genes that are
+      frequently mutated in this type of cancer. Mutations in several oncogenes
+      can be found at each stage of NSCLC and in all histological types, e.g.
+      large cell carcinoma, adenocarcinoma, squamous cell  carcinoma (SCC), in
+      smokers and never-smokers as well. Frequent  mutations in NSCLC affect
+      EGFR (10--35\%), KRAS (15--25\%), PTEN (4--8\%), HER2 (2--4\%), DDR2
+      (4\%), PIK3CA (1--3\%), BRAF (1--3\%), AKT1 (1\%), MEK (1\%) and NRAS
+      (1\%). Additionally, rearrangement of ALK (3--7\%), RET (1\%) and ROS1
+      (1\%) and amplifications of FGFR1 (20\%) and MET (2--4\%) are found
+      recursively. These mutations are rarely observed together in the same
+      tumor.
+
+      Prognosis
+
+      \textbf{Melanoma} develops from the malignant transformation of melanocytes
+      in the basal epidermal layer of the skin. Melanoma incidence has exploded
+      over the last four decades, with a 15-fold increase in the United States.
+      Both genetic predisposition and environmental factors influence the risk
+      of getting melanoma. Skin cancer often affects fair-skinned individuals.
+      Exposure to UV light, immunosuppression and multiple nevi are risk factors.
+      UV radiation causes cyclobutane pyrimidine dimers (CPDs). By joining
+      adjacent pyrimidine bases, T--T, C--C or C--T dimers (UV
+      fingerprints) are formed, leading to direct DNA damage. People diagnosed
+      with rare genetic disorders like xeroderma pigmentosum are at great risk.
+      Traditionally, melanoma has been classified based on histological and
+      pathological properties, such as the thickness of the tumor, ulceration
+      or the anatomic location of the tumor. Several mutations in oncogenes
+      are recurrently found in melanoma, but are rarely found together in the
+      same tumor. The occurrence of the different mutations differs by the
+      anatomic location of the tumor, e.g. whether the specific body part is
+      chronically exposed to the sun. Mutations frequently found in melanoma
+      occur on BRAF (37--50\%), NRAS (13--25\%), MEK (6--7\%), NF1 (11.9\%),
+      CTNNB1 (2-4\%), GNAQ (1.3\%) and GNA11 (1.2\%).
+
+      Prognosis
+
+      \textbf{Colorectal cancer (CRC)} 1.4 million cases are detected yearly
+      with 694,000 deaths. CRC is one of the best studied cancers. The
+      development of colorectal adenocarcinomas occurs over many years. Caused
+      by the acquisition and accumulation of driver mutations, a normal
+      colorectal epithelium can progress to adenoma, which develops into
+      carcinoma, which can eventually mestastasize. Mutations recursively
+      detected in CRC occur on KRAS (36--40\%), SMAD4 (10--35\%), PIK3CA
+      (10--30\%), BRAF (8--15\%), PTEN (5--14\%), NRAS (1--6\%), and  AKT1
+      (1--6\%).
+
+      Prognosis
+
+    \subsubsection{Role of EGFR in Solid Tumors}
+
+      EGFR is a protein of the tyrosine kinase receptor family. It is anchored in
+      the cytoplasmic membrane and is composed of an intracytoplasmic tyrosine
+      kinase domain, a short hydrophobic transmembrane domain and an extracellular
+      ligand-binding domain. Ligand binding causes a conformational change if the
+      receptor, which leads to homo-- or heterodimerization, followed by an auto--
+      and cross--phosphorylation of key tyrosine residues on its cytoplasmic
+      domain. This forms docking sites for cytoplasmic proteins that contain
+      phosphotyrosine-binding and Src homology 2 domains. These proteins are
+      adaptor molecules for the RAS-RAF-MAPK and PI3K pathways. EGFR signaling
+      thereby mediates cell survival, differentiation, proliferation, angiogenesis
+      and migration.
+
+      Dysregulation of the EGFR signaling pathway has been associated with the
+      development and progression of solid tumors. Abnormal functioning of this
+      pathway enables several cancer hallmarks such as the inhibition of
+      apoptosis, induction of angiogenesis, cell-cycle progression, as well as
+      promotion of cell motility and metastasis.
+
+      TGFa activation of EGFR results in a positive growth stimulus (11, 12).
+      High levels of TGFa have been associated with neoplastic transformation
+      (13, 14) and overexpression of TGFa by stable trans- fection transforms
+      fibroblasts in culture (15). Transgenic mice over- expressing TGFa develop
+      malignant tumors at a number of sites (16–18). Furthermore, in vivo
+      studies have shown that the overex- pression of TGFa enhances
+      oncogene-induced carcinogenesis (19–21).
+
+      \paragraph{EGFR expression and mutations}
+
+      The Epithelial Growth Factor Receptor (EGFR) is overexpressed in several
+      cancers. 40--80\% of NSCLC overexpress EGFR. Additionally, EGFR levels are
+      higher in late stage NSCLC cells than in early stage patients. Even though
+      EGFR overexpression is an important process in the development and
+      progression of several cancers, its role as prognostic marker is debated.
+      Some studies have found no correlation between EGFR expression and
+      survival, while other studies have reported a correlation between EGFR
+      expression and tumor invasiveness and poor survival.
+
+      \paragraph{Cell survival enabled by EGFR}
+
+      \paragraph{Cell death induced by EGFR blockade}
+
+      http://theoncologist.alphamedpress.org/content/11/4/358.full
+
+    \subsubsection{EGFR-targeted drugs}
+
+      The observation that many tumors modify the EGFR signaling pathway for
+      their purposes has lead to the development of EGFR-targeted agents. These
+      drugs have met an enormous success, especially in combination with
+      traditional cancer therapies as chemotherapy or radiation therapy.
+      Interestingly, clinical trials have revealed that these agents have
+      surprisingly low adverse systemic side effects. It has been proposed that
+      EGFR signaling is the rate limiting factor in cancer cells, but not in
+      normal cells. This might be explained by the fact that normal epithelial
+      cells present normal functional cell--cell and cell--matrix contacts. This
+      lessens their dependence on other survival signals such as EGFR signaling
+      induced by EGF or TGFa. In contrast, cancer cells are provided with
+      inadequate contacts and are thereby more dependent on other survival
+      signals. Cancer cells are thereby often more susceptible to cell death
+      upon EGFR blockade than normal cells.
+
+      http://cancerres.aacrjournals.org/content/63/1/1.short
+
+      Pharmacologically, these anti-EGFR agents can be divided into two classes.
+      (i) Anti-EGFR monoclonal antibodies
+      (ii) EGFR-specific tyrosine kinase inhibitors.
+
+    \subsubsection{Predictive markers}
+
+      Molecular testing of some predictive biomarkers is necessary to identify
+      the potential success of anti-EGFR therapy. Table XXX shows a selection of
+      EGFR-targeted agents, their molecular targets and FDA-approved indications.
+      In fact, the mutational status of EGFR and downstream proteins is
+      predictive of the successfulness of the administration of these drugs.
+
+      Wild-type status of EGFR, KRAS, NRAS and BRAF has been associated with
+      increased sensitivity to anti-EGFR antibodies. EGFR-specific tyrosine
+      kinase inhibitors comprise three classes that include first generation
+      reversible  EGFR-inhibitors (gefitinib, erlotinib), second generation
+      irreversible inhibitors (afatinib, dacomitinib, neratinib) and third
+      generation mutant-selective inhibitors (brigatinib, osimertinib,
+      rociletinib). Third class agents have a better sensitivity against mutated
+      than wild-type EGFR and have been designed to further decrease
+      treatment-associated side effects.
+      \paragraph{EGFR} is a strong predictive biomarker for the success of the
+      administration of EGFR-specific tyrosine kinase inhibitors.
+      EGFR activating mutations are observed in 10--35\% of NSCLC.
+      90\% of these mutations are exon 19 deletions and exon 21 L585R (c.2573T>G)
+      point mutations. Amongst EGFR-mutated NSCLC, EGFR L858R occurs with a
+      frequency of 43\%.
+      \paragraph{KRAS} mutations in CRC are found with a frequency of 36--40\%. Amongst
+      these, the G12C variant is the most common (7.9\%). Critical mutations
+      in the KRAS gene include variants in codons 12, 13 and 61. These mutations
+      lock KRAS in its GTP-bound state, resulting in a constantly active protein.
+      This then leads to a constantly active signal transduction. Blocking
+      EGFR in that case is useless, as KRAS acts downstream of EGFR. Several
+      KRAS point mutations in codons 12, 13 and 61 have been shown to confer
+      reduced sensitivity to EGFR-targeted monoclonal antibodies in CRC. The
+      situation is similar in the case of the KRAS-isoform NRAS.
+      \paragraph{BRAF} mutations are very common in melanoma (37--50\%). Amongst
+      BRAF-mutated melanomas, the V600E variant is found in 80--90\% cases.
+      This variant occurs in the activation segment of the BRAF kinase domain
+      and results in increased kinase activity. BRAF V600E mutations
+      have been associated with increased sensitivity to BRAF and MEK inhibitors.
+
+
+      \begin{table}[!htbp]
+        \caption[Targeted Cancer Agents]{FDA-approved cancer drugs for solid tumor treatment that target the EGFR pathway}
+        \centering
+          \begin{tabular}{ |p{4cm}|p{3.7cm}|p{6.3cm}|}
+          \hline
+          Agent & Target(s) & FDA-approved indication(s) \\ \hline \hline
+          Afatinib (Gilotrif) & EGFR & NSCLC (with EGFR del19 or L858R) \\
+          Cetuximab (Erbitux) & EGFR & Colorectal cancer (KRAS WT) \\
+          Cobimetinib (Cotellic) & MEK & Melanoma (with BRAF V600E or V600K \\
+          Dabrafenib (Tafinlar) & BRAF & Melanoma (with BRAF V600 mutation) \\
+          Erlotinib (Tarceva) & EGFR & NSCLC \\
+          Gefitinib (Iressa) & EGFR & NSCLC (with EGFR del19 or L858R) \\
+          Necitumumab (Portrazza) & EGFR & Squamous NSCLC \\
+          Osimertinib (Tagrisso) & EGFR & NSCLC (with EGFR T790M) \\
+          Panitumumab (Vectibix) & EGFR & Colorectal cancer (KRAS WT) \\
+          Trametinib (Mekinist) & MEK & Melanoma (with BRAF V600) \\
+          Vemurafenib (Zelboraf) & BRAF & Melanoma (with BRAF V600) \\
+          \hline
+        \end{tabular}
+      \end{table}
+
+  \subsection{Tumor DNA Sequencing}
+
+    \subsubsection{Targeted NGS}
+
+      \paragraph{Target enrichment methods}
+
+    \subsubsection{Practical implications in the laboratory}
+
+      FFPE, degradation, C>T variants
+
+      Availability of samples
+
+      Cancer heterogeneity
+
+      Sequencing artifacts vs low-frequency mutations
+
+      Bioinformatic pipeline
+
+
+
+
+    \subsubsection{Genomic Instability in Cancers}
+
+
+      \textbf{Microsatellite instability (MSI)}
+
+      \textbf{Nucleotide instability (NIN)}
+
+    \subsubsection{Tumor Suppressors and Oncogenes in Solid Tumors}
+
+      Genomic instability in cancerous cells becomes a critical mechanism if it
+      affects oncogenes or tumor suppressor genes. $
+      Oncogenes comprise several GTPases, transcription factors, receptor tyrosine
+      kinases and growth factors. Overexpressed or overactive versions of these
+      proteins often lead to increased mitogenic signals, causing increased
+      cell growth or proliferation. Mutations in proto--oncogenes can cause a
+      loss of regulation or overactive proteins. Gene duplications or other
+      chromosomal alterations lead to increased protein synthesis. Other
+      mechanisms of importance include post-transcriptional mechanisms as
+      misregulation of protein expression or increase of mRNA / protein stability.
+
+      \textbf{APC:} Adenomatous Polyposis Coli (APC) gene codes for a 312 kDa
+      protein. This multi--domain protein has binding sites for microtubules,
+      cytoskeletal regulator proteins (IQGAP1, EB1) and Wnt signaling proteins
+      (b -catenin, axin). 60\% of APC mutations in cancer present a
+      C-terminal truncation, resulting in a loss of b--catenin and
+      microtubule binding sites. Wnt signaling regulates, amongst others, cell
+      migration, polarity, differentiation, adhesion and apoptosis. In the
+      canonical Wnt signaling pathway, a destruction complex, including axin,
+      GSK3, CK1a, PP2A and APC, leads to b--catenin phosphorylation,
+      followed by ubiquitination, marking it for degradation in the proteasome.
+      Additionally, transcription factors of the TCF/LEF family form a complex
+      with factors such as Groucho and histone deacetylases. This complex binds
+      to Wnt signaling target genes and thereby represses gene expression. Once
+      Wnt binds to the N-terminus of a cell surface receptor of the Frizzled
+      family of receptors and and a co-receptor of the LRP5/6 family, the
+      destruction complex is inhibited. Consequently, b--catenin is no
+      longer marked for degradation and can translocate to the nucleus. There it
+      displaces the factors binding to TCF/LEF and forms a complex with TCF/LEF,
+      leading to activation of gene expression of target genes. Loss or
+      dysfunction of APC leads to b--catenin accumulation in the nucleus
+      even in the absence of  an extracellular stimulus.
+
+      APC mutations are suspected to be the initiating event in many CRCs. APC
+      mutations are sufficient for the growth of benign colorectal tumors.
+
+      http://www.wormbook.org/chapters/www_wntsignaling/wntsignaling.html
+      http://www.ncbi.nlm.nih.gov/pubmed/15768032
+      http://jcs.biologists.org/content/120/19/3327.long
+      http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2634250/
+
+      Also in melanoma: http://www.ncbi.nlm.nih.gov/pubmed/15133491
+
+      Present, but less in NSCLC: http://www.ncbi.nlm.nih.gov/pubmed/15072829
+
+      \textbf{TP53:} TP53 is one of the master guardians of the genome. In
+      normal situations, p53, the protein encoded by TP53, is regulated by MDM2,
+      MDM4 and E3--ubiquitin ligase, which target p53 for ubiquitination and
+      degradation in the proteasome. In case of cellular stress, p53 is no
+      longer ubiquitinated. p53 becomes activated in several situations, which
+      include  DNA damage, osmotic shock, oxidative stress or oncogene
+      expression. In such situations, p53 can then stop the cell cycle at the
+      G1/S and G2/M transitions, induce DNA repair, and induce apoptosis if the
+      damage cannot be repaired. TP53 thereby maintains genomic stability.
+
+      One mechanism by which p53 acts on cell-cycle arrest is by activating
+      expression of p21. p21 binds to the G1/S transition complex, formed by
+      CDK4/CDK6, CDK2, CDK1) and inhibits its activity, leading to cell-cycle
+      arrest. Inactivation or mutation of TP53 is a crucial step in many
+      cancers. A defective p53 does not bind efficiently to DNA, resulting in
+      less p21 expression. As a consequence, p21 cannot act as a cell-cycle stop
+      signal.
+
+      The importance of TP53 as tumor suppressor gene becomes evident in the
+      autosomal dominant Li--Fraumeni syndrome. People suffering from this disorder inherit only
+      one functional copy of TP53 and are likely to develop cancer in early
+      ages.
+
+      TP53 mutations are found in 50\% of CRCs,
+      especially those associated with the methylator phenotype and
+      microsatellite instability. Alterations in TP53 are associated with poor
+      prognosis if treated with chemotherapy. In fact, wild-type TP53 is
+      required for treatment with chemotherapy based on 5-fluoroacil.
+
+      TP53 alterations are the early events in lung carcinogenesis
+
+
+      \textbf{TGF--b:}
+      Melanoma: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3662904/
+      http://www.ncbi.nlm.nih.gov/pubmed/18426405
+      http://www.ncbi.nlm.nih.gov/pubmed/21619542
+
+      NSCLC: http://www.ncbi.nlm.nih.gov/pubmed/20107423
+      http://link.springer.com/chapter/10.1007/978-1-4419-6615-5_28#page-1
+      http://www.nature.com/cdd/journal/v21/n8/full/cdd201438a.html
+
+      Colorectal: http://www.ncbi.nlm.nih.gov/pubmed/20517689
+      http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512565/
+      http://hmg.oxfordjournals.org/content/16/R1/R14.full
+
+      \paragraph{EGFR signaling pathway}: EGFR is a protein of the tyrosine kinase
+      receptor family. It is anchored in the cytoplasmic membrane and is
+      composed of an intracytoplasmic tyrosine kinase domain, a short
+      hydrophobic transmembrane domain and an extracellular ligand-binding
+      domain. Ligand binding causes a conformational change if the receptor,
+      which leads to homo-- or heterodimerization, followed by an auto-- and
+      cross--phosphorylation of key tyrosine residues on its cytoplasmic domain.
+      This forms docking sites for cytoplasmic proteins that contain
+      phosphotyrosine-binding and Src homology 2 domains. These proteins are
+      adaptor molecules for the RAS-RAF-MAPK and PI3K pathways. Both pathways
+      lead to cell survival, proliferation and invasion.
+
+      PTEN/PI3K/AKT leads to cell growth, proliferation and survival
+      http://www.nature.com/onc/journal/v27/n41/full/onc2008247a.html
+      http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092286/
+      http://www.hindawi.com/journals/isrn/2013/472432/
+
+PIK3CA_Colorectal.pdf
+
+      Phospholipase C
+
+      STATs
+
+      Src
+
+      In the RAS-RAF-MAPK pathway, GRB2 binds to Tyr1068 of EGFR through their
+      SH2 domain and recruits SOS, a guanine nucleotide exchange factor. Grb2
+      and SOS then form a complex with the activated EGFR, which activates SOS.
+      Activates SOS, through its GEF activity, then induces GDP removal from Ras
+      proteins, which can subsequently bind GTP and become active. Ras then
+      activates Raf serine/threonine kinase proteins, which phosphorylate and
+      thereby activate MEKs, which are tyrosine/threonine kinases. Activated
+      MEKS then phosphorylate and activate MAPKs, also serine/threonine kinases.
+      MAPKs then act on the expression of target genes that promote cell survival,
+      cell cycle progression and proliferation.
+
+      http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3457779/
+
+      The RAS-RAF-MAPK pathway is deregulated in many cancers, mainly through
+      activating mutatios on RAS or RAF.
+
+      \textbf{KRAS}
+      KRAS has gained interest as negative predictive
+      marker of the successfulness of anti-EGFR targeted therapy. KRAS is
+      mutated in 36--40\% of CRCs, 15--25\% of NSCLCs and 2\% of melanomas.
+      Single nucleotide point mutations in codons 12, 13 and 61 can act as
+      activating mutations. Proteins affected by such mutations are locked in
+      their active GTP-bound state and are consequently constantly active.
+
+      \textbf{BRAF}
+      Apart from RAS proteins, RAF proteins are of importance in solid tumors.
+
+      https://www.moffitt.org/File%20Library/Main%20Nav/Research%20and%20Clinical%20Trials/Cancer%20Control%20Journal/v14n3/295.pdf
+      http://www.sciencedirect.com/science/article/pii/S0014579301021664
+      http://www.ncbi.nlm.nih.gov/pubmed/18038764
+      http://cancerres.aacrjournals.org/content/63/1/1.long
+
+      Many cancers have been shown to be dependent on EGFR signaling.Targeting
+      the EGFR signaling pathway is an attractive target blabla and has been of
+      benefit in solid tumors, e.g. melanoma, CRC and NSCLC. Advantages have
+      been made better survival rates. shutting egfr down -> apoptosis. but 2
+      problems: resistances & not all mutations are actionable. therefore:
+      molecular testing. the more comprehensible, the better. classical
+      approaches only target some hotspot regions. NGS has the potential to give
+      really deep insights
+
+      In recent years, several EGFR targeted anti-cancer drugs have been
+      approved by the FDA. Anti--EGFR targeted monoclonal antibodies and
+      EGFR--specific tyrosine--kinase inhibitors have shown their usefulness in
+      the treatment of solid tumors.
+
+      However, solid tumors have a tendency to harbor mutations in proteins
+      acting in  the EGFR signaling pathway. Table XXX shows the frequency of
+      tumors  harboring mutations in EGFR or downstream proteins. Identifying
+      the mutational status of these proteins is of utmost importance in
+      targeted anti-EGFR therapy. Wild-type or mutated proteins provide either
+      increased sensitivity or resistance to the treatment.
+
+
+      Targeted cancer therapy holds the promise of highly selective
+      tumor cell killing while sparing most of normal proliferating cells,
+      thus avoiding some side effects of conventional cytotoxic therapy.
+
+    \begin{table}[!htbp]
+        \caption[Occurrence of mutations]{EGFR signaling pathway components affected in colorectal cancer, melanoma and non-small cell lung carcinoma}
+        \centering
+        \begin{tabular}{ |p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+        \hline
+        Gene & CRC (\%) & Melanoma & NSCLC \\ \hline \hline
+        EGFR & NA & NA & 10--35 \\
+        KRAS & 36--40 & 2 & 15--25 \\
+        NRAS & 1--6 & 13--25 & 1 \\
+        BRAF & 8--15 & 37--50 & 1--3 \\
+        PTEN & 5--14 & NA & 4--8 \\
+        PIK3CA & 10--30 & & 1--3 \\
+        \hline
+      \end{tabular}
+    \end{table}
+(http://www.nature.com/bjc/journal/v112/n2/full/bjc2014476a.html)
+
+    \begin{table}[!htbp]
+        \caption[Targeted Cancer Agents]{FDA-approved cancer drugs for solid tumor treatment that target the EGFR pathway}
+        \centering
+        \begin{tabular}{ |p{4cm}|p{3.7cm}|p{6.3cm}|}
+        \hline
+        Agent & Target(s) & FDA-approved indication(s) \\ \hline \hline
+        Afatinib (Gilotrif) & EGFR & NSCLC (with EGFR del19 or L858R) \\
+        Cetuximab (Erbitux) & EGFR & Colorectal cancer (KRAS WT) \\
+        Cobimetinib (Cotellic) & MEK & Melanoma (with BRAF V600E or V600K \\
+        Dabrafenib (Tafinlar) & BRAF & Melanoma (with BRAF V600 mutation) \\
+        Erlotinib (Tarceva) & EGFR & NSCLC \\
+        Gefitinib (Iressa) & EGFR & NSCLC (with EGFR del19 or L858R) \\
+        Necitumumab (Portrazza) & EGFR & Squamous NSCLC \\
+        Osimertinib (Tagrisso) & EGFR & NSCLC (with EGFR T790M) \\
+        Panitumumab (Vectibix) & EGFR & Colorectal cancer (KRAS WT) \\
+        Trametinib (Mekinist) & MEK & Melanoma (with BRAF V600) \\
+        Vemurafenib (Zelboraf) & BRAF & Melanoma (with BRAF V600) \\
+        \hline
+      \end{tabular}
+    \end{table}
+
+  \subsection{Targeted Sequencing}
+
+    \subsubsection{Target Enrichment Methods}
+
+    \subsubsection{Illumina Sequencing Chemistry}
+
+  \subsection{NGS Data Analysis}
+
+    \subsubsection{GATK Best Practices}
+
+  \subsection{Practical Implications in the Laboratory}
+
+  \subsection{Aims of the Thesis}

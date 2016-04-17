@@ -1,34 +1,15 @@
-\BOOKMARK [1][-]{section*.2}{List of Abbreviations}{}% 1
-\BOOKMARK [1][-]{table.caption.4}{List of Figures}{}% 2
-\BOOKMARK [1][-]{section*.5}{List of Tables}{}% 3
-\BOOKMARK [1][-]{section.1}{Introduction}{}% 4
-\BOOKMARK [2][-]{subsection.1.1}{Targeting Solid Tumors}{section.1}% 5
-\BOOKMARK [3][-]{subsubsection.1.1.1}{Genomic Instability in Cancers}{subsection.1.1}% 6
-\BOOKMARK [3][-]{subsubsection.1.1.2}{Tumor Suppressors and Oncogenes in Solid Tumors}{subsection.1.1}% 7
-\BOOKMARK [2][-]{subsection.1.2}{Targeted Sequencing}{section.1}% 8
-\BOOKMARK [3][-]{subsubsection.1.2.1}{Target Enrichment Methods}{subsection.1.2}% 9
-\BOOKMARK [3][-]{subsubsection.1.2.2}{Illumina Sequencing Chemistry}{subsection.1.2}% 10
-\BOOKMARK [2][-]{subsection.1.3}{NGS Data Analysis}{section.1}% 11
-\BOOKMARK [3][-]{subsubsection.1.3.1}{GATK Best Practices}{subsection.1.3}% 12
-\BOOKMARK [2][-]{subsection.1.4}{Practical Implications in the Laboratory}{section.1}% 13
-\BOOKMARK [2][-]{subsection.1.5}{Aims of the Thesis}{section.1}% 14
-\BOOKMARK [1][-]{section.2}{Material and Methods}{}% 15
-\BOOKMARK [2][-]{subsection.2.1}{Library Preparation}{section.2}% 16
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Patients}{subsection.2.1}% 17
-\BOOKMARK [3][-]{subsubsection.2.1.2}{DNA Extraction, Quantification and Quality Control}{subsection.2.1}% 18
-\BOOKMARK [3][-]{subsubsection.2.1.3}{Agilent Haloplex ClearSeq Cancer}{subsection.2.1}% 19
-\BOOKMARK [3][-]{subsubsection.2.1.4}{Illumina TruSight Tumor 15}{subsection.2.1}% 20
-\BOOKMARK [2][-]{subsection.2.2}{Bioinformatic Analysis}{section.2}% 21
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Agilent SureCall}{subsection.2.2}% 22
-\BOOKMARK [3][-]{subsubsection.2.2.2}{Illumina BaseSpace TruSight Tumor 15 App}{subsection.2.2}% 23
-\BOOKMARK [3][-]{subsubsection.2.2.3}{Custom In-House Pipeline \(Velona\)}{subsection.2.2}% 24
-\BOOKMARK [3][-]{subsubsection.2.2.4}{Variant Calling Algorithms}{subsection.2.2}% 25
-\BOOKMARK [1][-]{section.3}{Results}{}% 26
-\BOOKMARK [2][-]{subsection.3.1}{Sample Preparation}{section.3}% 27
-\BOOKMARK [2][-]{subsection.3.2}{NGS Data Quality}{section.3}% 28
-\BOOKMARK [2][-]{subsection.3.3}{Coverage Analysis}{section.3}% 29
-\BOOKMARK [2][-]{subsection.3.4}{Variant Calling Algorithm Comparison}{section.3}% 30
-\BOOKMARK [3][-]{subsubsection.3.4.1}{Detection of Known Single Nucleotide Variants and Deletions}{subsection.3.4}% 31
-\BOOKMARK [3][-]{subsubsection.3.4.2}{Sensitivity Analysis}{subsection.3.4}% 32
-\BOOKMARK [1][-]{section.4}{Conclusions}{}% 33
-\BOOKMARK [1][-]{section.4}{References}{}% 34
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{The cancer genome}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Cancer: an evolutionary process}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Accumulation of somatic mutations}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Driver and passenger mutations}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{Targeting the EGFR signaling pathway}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Molecular Profiling of Solid Tumors}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Biological Role of EGFR in Solid Tumors}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.3}{EGFR-targeted drugs}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Predictive markers}{subsection.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.3}{Tumor DNA Sequencing}{section.1}% 11
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Targeted NGS}{subsection.1.3}% 12
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Practical implications in the laboratory}{subsection.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.4}{Aims of the Thesis}{section.1}% 14
+\BOOKMARK [1][-]{subsection.1.4}{References}{}% 15

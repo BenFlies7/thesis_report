@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.10)  14 APR 2016 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.4.10)  17 APR 2016 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,14 +566,8 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.117 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
-? $
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
 ? 
 )
 \openout1 = `thesis_template.aux'.
@@ -667,21 +661,16 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./abst
 ract.tex) [1] (./thesis_template.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 ...ipeline (Velona)}{10}{subsubsection.2.2.3}
-                                                   [2])
+))
 \tf@toc=\write4
 \openout4 = `thesis_template.toc'.
 
@@ -690,224 +679,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.116 \clearpage
-                 [3] (./abbreviations.tex
-Overfull \hbox (1.21478pt too wide) in paragraph at lines 7--7
-[]\OT1/phv/m/n/10.95 SGMB| 
- []
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.8     TST15     &
-                     Illumina TruSight Tumor 15 \\
-? 
-
-Overfull \hbox (6.25163pt too wide) in paragraph at lines 8--9
-[]\OT1/phv/m/n/10.95 Illumina
- []
-
-
-Overfull \hbox (8.55847pt too wide) in paragraph at lines 8--9
-\OT1/phv/m/n/10.95 TruSight
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-\OT1/phv/m/n/10.95 Tu-mor
- []
-
-) [1
-
-] (./thesis_template.lof)
-\tf@lof=\write5
-\openout5 = `thesis_template.lof'.
-
- [2] (./thesis_template.lot
-! Missing $ inserted.
-<inserted text> 
-                $
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...{4}{\ignorespaces samtools_flagstat}
-                                                  }\hyper@linkend 
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...4}{\ignorespaces samtools_flagstat}}
-                                                  \hyper@linkend 
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.4 ...s samtools_flagstat}}{13}{table.caption.21}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...rline {5}{\ignorespaces failed_halo}
-                                                  }\hyper@linkend 
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...line {5}{\ignorespaces failed_halo}}
-                                                  \hyper@linkend 
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.5 ...espaces failed_halo}}{14}{table.caption.23}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...rline {6}{\ignorespaces failed_halo}
-                                                  }\hyper@linkend 
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...line {6}{\ignorespaces failed_halo}}
-                                                  \hyper@linkend 
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.6 ...espaces failed_halo}}{15}{table.caption.24}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...rline {7}{\ignorespaces failed_halo}
-                                                  }\hyper@linkend 
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...line {7}{\ignorespaces failed_halo}}
-                                                  \hyper@linkend 
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.7 ...espaces failed_halo}}{17}{table.caption.25}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...{\ignorespaces sensitivity_analysis}
-                                                  }\hyper@linkend 
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-! Extra }, or forgotten $.
-<argument> ...\ignorespaces sensitivity_analysis}}
-                                                  \hyper@linkend 
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...ensitivity_analysis}}{18}{table.caption.26}
-                                                  
-? 
-)
-\tf@lot=\write6
-\openout6 = `thesis_template.lot'.
-
- [3] (./intro.tex
+                 [2] (./intro.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 11.03998pt on input line 19.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
@@ -918,329 +690,58 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 
-      [1] [2] [3]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.151       http://www.wormbook.org/chapters/www_
-                                                 wntsignaling/wntsignaling.html
+l.56 
+      [1
 
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.155 
-      
-? 
-
-Overfull \hbox (182.30441pt too wide) in paragraph at lines 151--155
-[]\OT1/phv/m/n/10.95 http://www.wormbook.org/chapters/www$[]\OML/cmm/m/it/10.95
- ntsignaling=wntsignaling:htmlhttp \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==w
-ww:ncbi:nlm:nih:gov=pubmed=\OT1/cmr/m/n/10.95 15768032\OML/cmm/m/it/10.95 http 
-\OT1/cmr/m/n/10.95 :
- []
-
-
-Overfull \hbox (80.13914pt too wide) in paragraph at lines 151--155
-\OML/cmm/m/it/10.95 ==jcs:biologists:org=content=\OT1/cmr/m/n/10.95 120\OML/cmm
-/m/it/10.95 =\OT1/cmr/m/n/10.95 19\OML/cmm/m/it/10.95 =\OT1/cmr/m/n/10.95 3327\
-OML/cmm/m/it/10.95 :longhttp \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==www:ncb
-i:nlm:nih:gov=pmc=articles=PMC\OT1/cmr/m/n/10.95 2634250\OML/cmm/m/it/10.95 =$ 
-
- []
-
-[4]
-Overfull \hbox (124.10983pt too wide) in paragraph at lines 192--196
-[]\OT1/phv/b/n/10.95 TGF--b: \OT1/phv/m/n/10.95 Melanoma: http://www.ncbi.nlm.n
-ih.gov/pmc/articles/PMC3662904/ http://www.ncbi.nlm.nih.gov/pubmed/18426405
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.198 ...er.com/chapter/10.1007/978-1-4419-6615-5_
-                                                  28#page-1
-? 
-! You can't use `macro parameter character #' in math mode.
-l.198 ...com/chapter/10.1007/978-1-4419-6615-5_28#
-                                                  page-1
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.200 
-      
-? 
-
-Overfull \hbox (25.39594pt too wide) in paragraph at lines 197--200
-[]\OT1/phv/m/n/10.95 NSCLC: http://www.ncbi.nlm.nih.gov/pubmed/20107423 http://
-link.springer.com/chapter/10.1007/978-
- []
-
-
-Overfull \hbox (10.59438pt too wide) in paragraph at lines 197--200
-\OT1/phv/m/n/10.95 1-4419-6615-5$[]\OT1/cmr/m/n/10.95 8\OML/cmm/m/it/10.95 page
- \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 http \OT1/cmr/
-m/n/10.95 : \OML/cmm/m/it/10.95 ==www:nature:com=cdd=journal=v\OT1/cmr/m/n/10.9
-5 21\OML/cmm/m/it/10.95 =n\OT1/cmr/m/n/10.95 8\OML/cmm/m/it/10.95 =full=cdd\OT1
-/cmr/m/n/10.95 201438\OML/cmm/m/it/10.95 a:html$ 
- []
-
-
-Overfull \hbox (84.03593pt too wide) in paragraph at lines 201--204
-[]\OT1/phv/m/n/10.95 Colorectal: http://www.ncbi.nlm.nih.gov/pubmed/20517689 ht
-tp://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512565/
- []
-
-
-Overfull \hbox (142.4658pt too wide) in paragraph at lines 217--221
-[]\OT1/phv/m/n/10.95 PTEN/PI3K/AKT leads to cell growth, pro-lif-er-a-tion and 
-sur-vival http://www.nature.com/onc/journal/v27/n41/full/onc2008247a.html
- []
-
-
-Overfull \hbox (34.11464pt too wide) in paragraph at lines 217--221
-\OT1/phv/m/n/10.95 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092286/ http://
-www.hindawi.com/journals/isrn/2013/472432/ 
- []
-
-[5]
-Overfull \hbox (2.9214pt too wide) in paragraph at lines 255--259
-[]\OT1/phv/m/n/10.95 https://www.moffitt.org/Filehttp://www.sciencedirect.com/s
-cience/article/pii/S0014579301021664
- []
-
-
-Overfull \hbox (2.66402pt too wide) in paragraph at lines 255--259
-\OT1/phv/m/n/10.95 http://www.ncbi.nlm.nih.gov/pubmed/18038764 http://cancerres
-.aacrjournals.org/content/63/1/1.long 
- []
-
-! Misplaced alignment tab character &.
-l.264       problems: resistances &
-                                    not all mutations are actionable. theref...
-
-? 
-) (./methods.tex
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 5.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsphv.fd
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
- [6] [7]
-! Misplaced alignment tab character &.
-l.24 ...sed as some kind of good quality samples &
-                                                   to see if there
-? 
-[8] [9]) (./results.tex
-<fastq_halo_forward.png, id=292, 842.14626pt x 601.24625pt>
-File: fastq_halo_forward.png Graphic file (type png)
-
-<use fastq_halo_forward.png>
-Package pdftex.def Info: fastq_halo_forward.png used on input line 13.
-(pdftex.def)             Requested size: 198.45662pt x 141.68738pt.
+]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 13.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 13.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.27998pt on input line 13.
-File: fastq_halo_forward.png Graphic file (type png)
- <use fastq_halo_forward.png>
-Package pdftex.def Info: fastq_halo_forward.png used on input line 15.
-(pdftex.def)             Requested size: 198.45662pt x 141.68738pt.
-
-<graph.pdf, id=293, 361.35pt x 303.1325pt>
-File: graph.pdf Graphic file (type pdf)
- <use graph.pdf>
-Package pdftex.def Info: graph.pdf used on input line 21.
-(pdftex.def)             Requested size: 271.01184pt x 227.34882pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-[]\OT1/phv/m/n/10.95 Halo
+(Font)              scaled to size 7.35999pt on input line 78.
+ [2] [3] [4]
+Overfull \hbox (1.20926pt too wide) in paragraph at lines 221--231
+ []\OT1/phv/b/n/10.95 Oncogenes[] \OT1/phv/m/n/10.95 com-prise sev-eral GT-Pase
+s, tran-scrip-tion fac-tors, re-cep-tor ty-ro-sine ki-nases and growth
  []
 
-LaTeX Font Info:    Try loading font information for OML+phv on input line 46.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlphv.fd
-File: omlphv.fd 
-)
-LaTeX Font Info:    Font shape `OML/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 46.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.49     \hline
-               
-? 
-File: fastq_halo_forward.png Graphic file (type png)
-<use fastq_halo_forward.png>
-Package pdftex.def Info: fastq_halo_forward.png used on input line 60.
-(pdftex.def)             Requested size: 220.50885pt x 157.43042pt.
-
-<fastq_tst15_forward.png, id=294, 820.06375pt x 594.22pt>
-File: fastq_tst15_forward.png Graphic file (type png)
-
-<use fastq_tst15_forward.png>
-Package pdftex.def Info: fastq_tst15_forward.png used on input line 62.
-(pdftex.def)             Requested size: 220.50885pt x 159.77965pt.
- [10 <./fastq_halo_forward.png>] [11 <./graph.pdf>]
-
-LaTeX Warning: Reference `table:samtools_flagstat' on page 12 undefined on inpu
-t line 87.
-
-[12 <./fastq_tst15_forward.png>]
-<distribution_amplicons_hap_csc.png, id=317, 1107.1764pt x 864.3492pt>
-File: distribution_amplicons_hap_csc.png Graphic file (type png)
-
-<use distribution_amplicons_hap_csc.png>
-Package pdftex.def Info: distribution_amplicons_hap_csc.png used on input line 
-109.
-(pdftex.def)             Requested size: 220.50885pt x 172.14139pt.
-File: distribution_amplicons_hap_csc.png Graphic file (type png)
-
-<use distribution_amplicons_hap_csc.png>
-Package pdftex.def Info: distribution_amplicons_hap_csc.png used on input line 
-111.
-(pdftex.def)             Requested size: 220.50885pt x 172.14139pt.
- [13 <./distribution_amplicons_hap_csc.png>]
-Overfull \hbox (51.06075pt too wide) in paragraph at lines 174--179
-\OT1/phv/m/n/10.95 re-quired cov-er-age thresh-olds is prob-lem-atic. This is e
-s-pe-cially the case for am-pli-con 1EGFRxxE21TF035SR035
- []
-
-[14]
-Overfull \hbox (1.21492pt too wide) in paragraph at lines 224--224
-[]\OT1/phv/m/n/10.95 Tissue| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 Halo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 TST
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 at
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 Halo
- []
-
-
-Overfull \hbox (1.77899pt too wide) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 TST15| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 at
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
-[]\OT1/phv/m/n/10.95 Halo
- []
-
-
-Overfull \hbox (1.77899pt too wide) in paragraph at lines 256--257
-[]\OT1/phv/m/n/10.95 TST15| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--260
-[]\OT1/phv/m/n/10.95 delE756-
- []
-
-
-Overfull \hbox (1.68944pt too wide) in paragraph at lines 267--267
-[]\OT1/phv/m/n/10.95 PIK3CA| 
- []
-
-
-Overfull \hbox (1.68944pt too wide) in paragraph at lines 268--268
-[]\OT1/phv/m/n/10.95 PIK3CA| 
- []
-
-
-Overfull \hbox (23.87932pt too wide) in paragraph at lines 253--271
- [][] 
- []
-
-<var_freqs.png, id=330, 968.61874pt x 295.1025pt>
-File: var_freqs.png Graphic file (type png)
- <use var_freqs.png>
-Package pdftex.def Info: var_freqs.png used on input line 275.
-(pdftex.def)             Requested size: 484.30818pt x 147.55087pt.
-
-Overfull \hbox (43.29047pt too wide) in paragraph at lines 275--276
- [] 
- []
-
-[15] [16 <./var_freqs.png>]) (./conc.tex
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \end{itemize}
-                 
-? 
-) [17] (./thesis_template.bbl
+[5] [6] [7]) [8] [9] (./thesis_template.bbl
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 6.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 10.07397pt on input line 6.
-)
+(Font)              scaled to size 10.07397pt on input line 5.
+ [10] [11])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
- [18]
+ [12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
- (./thesis_template.aux)
+
+(./thesis_template.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `thesis_template.out' has not changed.
-(rerunfilecheck)             Checksum: 3905D6DFC5280F1DE93293B912B58B3F;2553.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: DAF21B8BC144E4A3236ED8AAF23C92ED;1178.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
- ) 
+ )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 152 ({)
+### simple group (level 2) entered at line 149 ({)
+### simple group (level 1) entered at line 147 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 8554 strings out of 493089
- 125634 string characters out of 6134842
- 343024 words of memory out of 5000000
- 11794 multiletter control sequences out of 15000+600000
- 21438 words of font info for 48 fonts, out of 8000000 for 9000
+ 8500 strings out of 493089
+ 125135 string characters out of 6134842
+ 316252 words of memory out of 5000000
+ 11792 multiletter control sequences out of 15000+600000
+ 19805 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,47p,434b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on thesis_template.pdf (25 pages, 325401 bytes).
+ 36i,4n,38p,320b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on thesis_template.pdf (15 pages, 71729 bytes).
 PDF statistics:
- 406 PDF objects out of 1000 (max. 8388607)
- 359 compressed objects within 4 object streams
- 92 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
