@@ -1,21 +1,20 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}The cancer genome}{1}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Cancer: an evolutionary process}{1}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Accumulation of somatic mutations}{2}{subsubsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.3}Driver and passenger mutations}{3}{subsubsection.1.1.3}
-\contentsline {paragraph}{Tumor suppressors}{4}{section*.3}
-\contentsline {paragraph}{Oncogenes}{5}{section*.4}
-\contentsline {subsection}{\numberline {1.2}Targeting the EGFR signaling pathway}{6}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Molecular Profiling of Solid Tumors}{6}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Biological Role of EGFR in Solid Tumors}{8}{subsubsection.1.2.2}
-\contentsline {paragraph}{EGFR expression and mutations}{8}{section*.5}
-\contentsline {paragraph}{Cell survival enabled by EGFR}{8}{section*.6}
-\contentsline {paragraph}{Cell death induced by EGFR blockade}{8}{section*.7}
-\contentsline {subsubsection}{\numberline {1.2.3}EGFR-targeted drugs}{8}{subsubsection.1.2.3}
-\contentsline {subsubsection}{\numberline {1.2.4}Predictive markers}{8}{subsubsection.1.2.4}
-\contentsline {subsection}{\numberline {1.3}Tumor DNA Sequencing}{8}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Targeted NGS}{8}{subsubsection.1.3.1}
-\contentsline {paragraph}{Target enrichment methods}{8}{section*.8}
-\contentsline {subsubsection}{\numberline {1.3.2}Practical implications in the laboratory}{9}{subsubsection.1.3.2}
-\contentsline {subsection}{\numberline {1.4}Aims of the Thesis}{9}{subsection.1.4}
-\contentsline {section}{References}{10}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.1.1}Molecular Profiling of Solid Tumors}{3}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Driver and passenger mutations}{5}{subsubsection.1.1.2}
+\contentsline {paragraph}{Tumor suppressor}{5}{section*.3}
+\contentsline {paragraph}{Oncogenes}{6}{section*.4}
+\contentsline {subsection}{\numberline {1.2}Targeting the EGFR signaling pathway}{8}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Biological Role of EGFR in Solid Tumors}{8}{subsubsection.1.2.1}
+\contentsline {paragraph}{EGFR signaling as a survival signal}{8}{section*.5}
+\contentsline {subsubsection}{\numberline {1.2.2}EGFR-targeted drugs}{9}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Predictive markers}{10}{subsubsection.1.2.3}
+\contentsline {paragraph}{EGFR}{10}{section*.7}
+\contentsline {paragraph}{KRAS}{11}{section*.8}
+\contentsline {paragraph}{BRAF}{11}{section*.9}
+\contentsline {subsection}{\numberline {1.3}Tumor DNA Sequencing}{11}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Targeted NGS}{12}{subsubsection.1.3.1}
+\contentsline {paragraph}{Target enrichment methods}{12}{section*.10}
+\contentsline {subsubsection}{\numberline {1.3.2}Practical implications in the laboratory}{12}{subsubsection.1.3.2}
+\contentsline {subsection}{\numberline {1.4}Aims of the Thesis}{12}{subsection.1.4}
+\contentsline {section}{References}{13}{subsection.1.4}
