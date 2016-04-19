@@ -9,28 +9,6 @@ M.~Berwick and P.~Vineis, ``Markers of dna repair and susceptibility to cancer
 D.~Hanahan and R.~A. Weinberg, ``Hallmarks of cancer: The next generation,''
   {\em Cell}, vol.~114, no.~5, pp.~646–--674, 2011.
 
-\bibitem{clonal_evolution}
-M.~Greaves and C.~C. Maley, ``Clonal evolution in cancer,'' {\em Nature},
-  vol.~481, pp.~306--313, 2012.
-
-\bibitem{darwinian_models}
-M.~Gerlinger and C.~Swanton, ``How darwinian models inform therapeutic failure
-  initiated by clonal heterogeneity in cancer medicine,'' {\em British Journal
-  of Cancer}, vol.~103, pp.~1139--–1143, 2010.
-
-\bibitem{war_zone}
-J.~Breivik, ``Don't stop for repairs in a war zone: Darwinian evolution unites
-  genes and environment in cancer development,'' {\em PNAS}, vol.~98, no.~10,
-  pp.~5379--5381, 2001.
-
-\bibitem{cancer_models}
-M.~P. Little, ``Cancer models, genomic instability and somatic cellular
-  darwinian evolution,'' {\em PNAS}, vol.~5, no.~19, 2010.
-
-\bibitem{immuno_oncology}
-O.~J. Finn, ``Immuno-oncology: understanding the function and dysfunction of
-  the immune system in cancer,'' {\em Ann Oncol}, vol.~23, 2012.
-
 \bibitem{accumulation_rates}
 D.~Hao, L.~Wang, and L.~Di, ``Distinct mutation accumulation rates among
   tissues determine the variation in cancer risk,'' {\em Scientific Reports},
@@ -82,15 +60,28 @@ V.~Bergoglio, M.~Pillaire, M.~Lacroix-Triki, B.~Raynaud-Messina, Y.~Canitrot,
   J.~Hoffmann, ``Deregulated dna polymerase $\beta$ induces chromosome
   instability and tumorigenesis,'' {\em Cancer Res}, vol.~62, 2002.
 
+\bibitem{msi}
+C.~Boland and A.~Goel, ``Microsatellite instability in colorectal cancer,''
+  {\em Gastroenterology}, vol.~138, pp.~2073--2087, 2010.
+
 \bibitem{cin_crc}
 R.~Kanthan, J.~Senger, and S.~C. Kanthan, ``Molecular events in primary and
   metastatic colorectal carcinoma: A review,'' {\em Pathology Research
   International}, 2012.
 
+\bibitem{micro}
+V.~Deschoolmeester, M.~Baay, P.~Specenier, F.~Lardon, and J.~B. Vermorken, ``A
+  review of the most promising biomarkers in colorectal cancer: one step closer
+  to targeted therapy,'' {\em Oncologist}, vol.~15, pp.~699--731, 2010.
+
 \bibitem{chromosome_missegregation}
 P.~V. Jallepalli and C.~Lengauer, ``Chromosome segregation and cancer: cutting
   through the mystery,'' {\em Nature Reviews Cancer}, vol.~1, pp.~109--117,
   2001.
+
+\bibitem{aneuploidy}
+M.~Giam and G.~Rancati, ``Aneuploidy and chromosomal instability in cancer: a
+  jackpot to chaos,'' {\em Cell Div}, vol.~10, 2015.
 
 \bibitem{chromothripsis_1}
 J.~Forment, A.~Kaidi, and S.~Jackson, ``Chromothripsis and cancer: causes and
@@ -102,34 +93,32 @@ A.~Rode, K.~Maass, K.~Willmund, P.~Lichter, and A.~Ernst, ``Chromothripsis in
   cancer cells: An update.,'' {\em Int J Cancer}, vol.~138, pp.~2322--2333,
   2016.
 
-\bibitem{aneuploidy}
-M.~Giam and G.~Rancati, ``Aneuploidy and chromosomal instability in cancer: a
-  jackpot to chaos,'' {\em Cell Div}, vol.~10, 2015.
+\bibitem{clonal_evolution}
+M.~Greaves and C.~C. Maley, ``Clonal evolution in cancer,'' {\em Nature},
+  vol.~481, pp.~306--313, 2012.
 
-\bibitem{msi}
-C.~Boland and A.~Goel, ``Microsatellite instability in colorectal cancer,''
-  {\em Gastroenterology}, vol.~138, pp.~2073--2087, 2010.
+\bibitem{darwinian_models}
+M.~Gerlinger and C.~Swanton, ``How darwinian models inform therapeutic failure
+  initiated by clonal heterogeneity in cancer medicine,'' {\em British Journal
+  of Cancer}, vol.~103, pp.~1139--–1143, 2010.
 
-\bibitem{microsat}
-C.~L. Galindo, L.~J. McIver, J.~F. McCormick, M.~A. Skinner, Y.~Xie, R.~A.
-  Gelhausen, K.~Ng, N.~M. Kumar, and H.~R. Garner, ``Global microsatellite
-  content distinguishes humans, primates, animals, and plants,'' {\em Mol Biol
-  Evol}, vol.~26, pp.~2809–--2819, 2009.
+\bibitem{war_zone}
+J.~Breivik, ``Don't stop for repairs in a war zone: Darwinian evolution unites
+  genes and environment in cancer development,'' {\em PNAS}, vol.~98, no.~10,
+  pp.~5379--5381, 2001.
 
-\bibitem{lynch}
-H.~T. Lynch and T.~Smyrk, ``Hereditary nonpolyposis colorectal cancer (lynch
-  syndrome): An updated review,'' {\em Cancer}, vol.~78, pp.~1149--1167, 1998.
+\bibitem{cancer_models}
+M.~P. Little, ``Cancer models, genomic instability and somatic cellular
+  darwinian evolution,'' {\em PNAS}, vol.~5, no.~19, 2010.
 
-\bibitem{lynch_2}
-R.~L. Ward, T.~Dobbins, N.~M. Lindor, R.~W. Rapkins, and M.~P. Hitchins,
-  ``Identification of constitutional mlh1 epimutations and promoter variants in
-  colorectal cancer patients from the colon cancer family registry,'' {\em
-  Genetics in Medicine}, vol.~15, pp.~25--35, 2013.
+\bibitem{cancer_genome}
+M.~R. Stratton, P.~J. Campbell, and P.~A. Futreal, ``The cancer genome,'' {\em
+  Nature}, vol.~458, pp.~719--724, 2009.
 
-\bibitem{micro}
-V.~Deschoolmeester, M.~Baay, P.~Specenier, F.~Lardon, and J.~B. Vermorken, ``A
-  review of the most promising biomarkers in colorectal cancer: one step closer
-  to targeted therapy,'' {\em Oncologist}, vol.~15, pp.~699--731, 2010.
+\bibitem{stochastic_cancer}
+C.~D. McFarland, K.~S. Korolev, G.~V. Kryukov, S.~R. Sunyaev, and L.~A. Mirny,
+  ``Impact of deleterious passenger mutations on cancer progression,'' {\em
+  Proc Natl Acad Sci USA}, vol.~110, pp.~2910–--2915, 2013.
 
 \bibitem{som_mut}
 I.~Bozic, T.~Antal, H.~Ohtsuki, H.~Carter, D.~Kim, S.~Chen, R.~Karchin, K.~W.
@@ -150,18 +139,131 @@ M.~Cusnir and L.~Cavalcante, ``Inter-tumor heterogeneity,'' {\em Human Vaccines
 F.~Michor and K.~Polyak, ``The origins and implications of intratumor
   heterogeneity,'' {\em Cancer Prev Res}, vol.~3, pp.~1361--1364, 2010.
 
-\bibitem{selective_chemo}
-M.~Gerlinger and C.~Swanton, ``How darwinian models inform therapeutic failure
-  initiated by clonal heterogeneity in cancer medicine,'' {\em Br J Cancer},
-  vol.~103, pp.~1139--1143, 2010.
+\bibitem{tumor_supp}
+W.~Sun and J.~Yang, ``Functional mechanisms for human tumor suppressors,'' {\em
+  J Cancer}, vol.~1, pp.~136--140, 2010.
 
-\bibitem{stochastic_cancer}
-C.~D. McFarland, K.~S. Korolev, G.~V. Kryukov, S.~R. Sunyaev, and L.~A. Mirny,
-  ``Impact of deleterious passenger mutations on cancer progression,'' {\em
-  Proc Natl Acad Sci USA}, vol.~110, pp.~2910–--2915, 2013.
+\bibitem{two_hit}
+H.~Chial, ``Tumor suppressor (ts) genes and the two-hit hypothesis,'' {\em
+  Nature Education}, vol.~1, 2010.
 
-\bibitem{cancer_genome}
-M.~R. Stratton, P.~J. Campbell, and P.~A. Futreal, ``The cancer genome,'' {\em
-  Nature}, vol.~458, pp.~719--724, 2009.
+\bibitem{haploinsuff}
+M.~Santarosa and A.~Ashworth, ``Haploinsufficiency for tumour suppressor genes:
+  when you don't need to go all the way,'' {\em Biochim Biophys Acta.},
+  vol.~1654, pp.~105--122, 2004.
+
+\bibitem{wnt_signal}
+B.~T. MacDonald, K.~Tamai, and X.~He, ``Wnt/$\beta$-catenin signaling:
+  components, mechanisms, and diseases,'' {\em Dev Cell}, vol.~17, no.~1,
+  pp.~9--26, 2009.
+
+\bibitem{wnt_signal_2}
+P.~Polakis, ``Wnt signaling and cancer,'' {\em Genes & Dev}, vol.~14,
+  pp.~1837--1851, 2000.
+
+\bibitem{tp53_1}
+M.~Farnebo, V.~J. Bykov, and K.~G. Wiman, ``The p53 tumor suppressor: a master
+  regulator of diverse cellular processes and therapeutic target in cancer,''
+  {\em Biochem Biophys Res Commun.}, vol.~396, no.~1, pp.~85--89, 2010.
+
+\bibitem{tp53_2}
+Y.~Yang, C.~H. Li, and A.~M. Weissman, ``Regulating the p53 system through
+  ubiquitination,'' {\em Oncogene}, vol.~23, pp.~2096--2106, 2004.
+
+\bibitem{tp53_3}
+J.~T. Zilfou and S.~W. Lowe, ``Tumor suppressive functions of p53,'' {\em Cold
+  Spring Harb Perspect Biol.}, vol.~1, no.~5, 2009.
+
+\bibitem{tp53_4}
+M.~Olivier, M.~Hollstein, and P.~Hainaut, ``Tp53 mutations in human cancers:
+  Origins, consequences, and clinical use,'' {\em Cold Spring Harb Perspect
+  Biol.}, vol.~2, no.~1, 2010.
+
+\bibitem{oncogenes}
+C.~M. Croce, ``Oncogenes and cancer,'' {\em N Engl J Med}, vol.~358,
+  pp.~502--511, 2008.
+
+\bibitem{egfr_review}
+R.~S. Herbst, ``Review of epidermal growth factor receptor biology,'' {\em Int
+  J Radiat Oncol Biol Phys.}, vol.~59, pp.~21--26, 2004.
+
+\bibitem{egfr_review_2}
+K.~M. Ferguson, ``Structure-based view of epidermal growth factor receptor
+  regulation,'' {\em Annu Rev Biophys.}, vol.~37, pp.~353--373, 2008.
+
+\bibitem{pi3k_2}
+J.~LoPiccolo, G.~M. Blumenthal, W.~B. Bernstein, and P.~A. Dennis, ``Targeting
+  the pi3k/akt/mtor pathway: effective combinations and clinical
+  considerations,'' {\em Drug Resist Updat}, vol.~11, pp.~32--50, 2008.
+
+\bibitem{pi3k_3}
+B.~A. Hemmings and D.~F. Restuccia, ``Pi3k-pkb/akt pathway,'' {\em Cold Spring
+  Harb Perspect Biol}, 2012.
+
+\bibitem{pdk1}
+J.~R. Hart and P.~K. Vogt, ``Phosphorylation of akt: a mutational analysis,''
+  {\em Oncotarget}, vol.~2, no.~6, pp.~467–--476, 2011.
+
+\bibitem{akt}
+I.~Hers, E.~E. Vincent, and J.~M. Tavaré, ``Akt signalling in health and
+  disease,'' {\em Cell Signal}, vol.~23, no.~10, pp.~1515--1527, 2011.
+
+\bibitem{pi3k}
+J.~F. Vara, A.~Casado, J.~de~Castro, P.~Cejas, C.~Belda-Iniesta, and
+  M.~González-Barón, ``Pi3k/akt signalling pathway and cancer.,'' {\em Cancer
+  Treat Rev.}, vol.~30, pp.~193--204, 2004.
+
+\bibitem{grb2}
+E.~H. Lowenstein, R.~J. Daly, A.~G. Batzer, W.~Li, B.~Margolis, R.~Lammers,
+  A.~Ullrich, E.~Y. Skolnik, D.~Bar-Sagi, and J.~Schlessinger, ``The sh2 and
+  sh3 domain-containing protein grb2 links receptor tyrosine kinases to ras
+  signaling,'' {\em Cell}, vol.~70, no.~3, pp.~431--442, 1992.
+
+\bibitem{raf}
+N.~H. Tran, X.~Wu, and J.~A. Frost, ``B-raf and raf-1 are regulated by distinct
+  autoregulatory mechanisms,'' {\em J Biol Chem.}, vol.~280, no.~6,
+  pp.~16244--16253, 2005.
+
+\bibitem{raf_2}
+K.~Hibino, T.~Shibata, T.~Yanagida, and Y.~Sako, ``A rasgtp-induced
+  conformational change in c-raf is essential for accurate molecular
+  recognition,'' {\em Biophys J.}, vol.~97, no.~5, p.~1277–1287, 2009.
+
+\bibitem{pak1}
+M.~Zang, C.~Hayne, and Z.~Luo, ``Interaction between active pak1 and raf-1 is
+  necessary for phosphorylation and activation of raf-1,'' {\em J Biol Chem.},
+  vol.~277, no.~6, pp.~4395--4405, 2002.
+
+\bibitem{melanoma_3}
+S.~Mouret, C.~Baudouin, M.~Charveron, A.~Favier, J.~Cadet, and T.~Douki,
+  ``Cyclobutane pyrimidine dimers are predominant dna lesions in whole human
+  skin exposed to uva radiation,'' {\em PNAS}, vol.~103, no.~37,
+  pp.~13765--13770, 2011.
+
+\bibitem{xero}
+K.~Paszkowska-Szczur, R.~J. Scott, P.~Serrano-Fernandez, A.~Mirecka, P.~Gapska,
+  B.~Górski, C.~Cybulski, R.~Maleszka, M.~Sulikowski, L.~Nagay, J.~Lubinski,
+  and T.~D. T, ``Xeroderma pigmentosum genes and melanoma risk,'' {\em Int J
+  Cancer}, vol.~133, no.~5, pp.~1094--1100, 2013.
+
+\bibitem{melanoma}
+R.~A. Anvekar, J.~J. Asciolla, D.~J. Missert, and J.~E. Chipuk, ``Born to be
+  alive: a role for the bcl-2 family in melanoma tumor cell survival,
+  apoptosis, and treatment,'' {\em Frontiers in Oncology}, vol.~1, no.~34,
+  2011.
+
+\bibitem{melanoma_2}
+B.~Bandarchi, L.~Ma, R.~Navab, A.~Seth, and G.~Rasty, ``From melanocyte to
+  metastatic malignant melanoma,'' {\em Dermatol Res Pract.}, 2010.
+
+\bibitem{crc}
+S.~D. Markowitz and M.~M. Bertagnolli, ``Molecular basis of colorectal
+  cancer,'' {\em The new england journal of medicine}, vol.~361, no.~55,
+  pp.~2449--2460, 2009.
+
+\bibitem{crc_2}
+R.~J. Davies, R.~Miller, and N.~Coleman, ``Colorectal cancer screening:
+  prospects for molecular stool analysis,'' {\em Nature Reviews Cancer},
+  vol.~5, pp.~199--209, 2005.
 
 \end{thebibliography}

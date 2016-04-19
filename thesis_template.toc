@@ -1,20 +1,19 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}The cancer genome}{1}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Molecular Profiling of Solid Tumors}{3}{subsubsection.1.1.1}
-\contentsline {subsubsection}{\numberline {1.1.2}Driver and passenger mutations}{5}{subsubsection.1.1.2}
-\contentsline {paragraph}{Tumor suppressor}{5}{section*.3}
-\contentsline {paragraph}{Oncogenes}{6}{section*.4}
+\contentsline {subsubsection}{\numberline {1.1.1}Driver and passenger mutations}{3}{subsubsection.1.1.1}
+\contentsline {paragraph}{Tumor suppressor}{3}{section*.3}
+\contentsline {paragraph}{Oncogenes}{4}{section*.4}
+\contentsline {subsubsection}{\numberline {1.1.2}Molecular Profiling of Solid Tumors}{6}{subsubsection.1.1.2}
 \contentsline {subsection}{\numberline {1.2}Targeting the EGFR signaling pathway}{8}{subsection.1.2}
 \contentsline {subsubsection}{\numberline {1.2.1}Biological Role of EGFR in Solid Tumors}{8}{subsubsection.1.2.1}
-\contentsline {paragraph}{EGFR signaling as a survival signal}{8}{section*.5}
-\contentsline {subsubsection}{\numberline {1.2.2}EGFR-targeted drugs}{9}{subsubsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.3}Predictive markers}{10}{subsubsection.1.2.3}
-\contentsline {paragraph}{EGFR}{10}{section*.7}
-\contentsline {paragraph}{KRAS}{11}{section*.8}
-\contentsline {paragraph}{BRAF}{11}{section*.9}
-\contentsline {subsection}{\numberline {1.3}Tumor DNA Sequencing}{11}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Targeted NGS}{12}{subsubsection.1.3.1}
-\contentsline {paragraph}{Target enrichment methods}{12}{section*.10}
-\contentsline {subsubsection}{\numberline {1.3.2}Practical implications in the laboratory}{12}{subsubsection.1.3.2}
-\contentsline {subsection}{\numberline {1.4}Aims of the Thesis}{12}{subsection.1.4}
-\contentsline {section}{References}{13}{subsection.1.4}
+\contentsline {paragraph}{EGFR signaling as a survival signal}{9}{section*.6}
+\contentsline {subsubsection}{\numberline {1.2.2}EGFR-targeted drugs}{10}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Predictive markers}{11}{subsubsection.1.2.3}
+\contentsline {paragraph}{EGFR}{11}{section*.8}
+\contentsline {paragraph}{KRAS}{11}{section*.9}
+\contentsline {paragraph}{NRAS}{12}{section*.10}
+\contentsline {paragraph}{BRAF}{12}{section*.11}
+\contentsline {subsection}{\numberline {1.3}Tumor DNA Sequencing}{12}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Practical implications in the laboratory}{13}{subsubsection.1.3.1}
+\contentsline {subsection}{\numberline {1.4}Aims of the Thesis}{15}{subsection.1.4}
+\contentsline {section}{References}{16}{subsection.1.4}
