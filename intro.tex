@@ -497,7 +497,7 @@
       results. NGS was able to detect mutations that were not detectable by
       qPCR. Still, the implementation of new techniques into the workflow of molecular
       diagnostics laboratories requires a careful assessment of the sensitivity
-      and sensibility of the method. The quality of tumor sequencing
+      and sensibility of the method {\cite{implementation}}. The quality of tumor sequencing
       experiments is affected by several factors. These include the content of
       tumor cells in the sample, the quality of the tissue material, the choice
       of the sequencing library preparation kit and the bioinformatic pipeline.
@@ -508,7 +508,7 @@
       heterogeneous: a small subpopulation might present mutations, which
       provide resistance to the treatment. Detecting these low-frequency
       mutations and clearly delineating them from possible sample processing or
-      sequencing induced artifacts presents an important challenge.
+      sequencing induced artifacts presents an important challenge {\cite{ffpe_ngs}}.
 
       Tumor biopsies usually yield a limited amount of tissue, therefore it is
       important to optimize sample usage by multiplexing analysis. In
@@ -518,14 +518,14 @@
       FFPE preserves the tissue morphology and thereby allows histological
       analysis. In addition, it allows specimen storage for decades. Sample
       quality, however, is influenced by this fixation method and the fixation
-      time. DNA extraction from FFPE samples is difficult and yields low amounts
-      of DNA; formaldehyde leads to cross-linking of nucleic acids and proteins;
+      time {\cite{implementation}}. DNA extraction from FFPE samples is difficult and yields low amounts
+      of DNA {\cite{ffpe_ngs_2}}; formaldehyde leads to cross-linking of nucleic acids and proteins {\cite{ffpe_ngs_3}};
       FFPE introduces fixation artifacts into DNA sequences, for instance C>T
-      transitions. These circumstances complicate sample processing as well as
+      transitions {\cite{ffpe_ngs_4}}. These circumstances complicate sample processing as well as
       NGS data interpretation. Though, FFPE samples have been shown to be still
-      suitable for downstream PCR--based analyses.
+      suitable for downstream PCR--based analyses {\cite{ffpe_ngs_5}}.
 
-      Several NGS bench-top devices have become available in the last decade.
+      Several NGS bench-top devices have become available in the last decade {\cite{devices}}.
       These instrumentations differ in their underlying chemistry that
       influences the instrument’s performance, accuracy, output and time per
       run. Common sequencing principles include pyrosequencing (454), sequencing
@@ -534,7 +534,7 @@
 
       Sequencing library preparation also affects the final NGS result. Several
       technologies for target enrichment exist and are available for different
-      sequencing instruments. Two steps are essential for all these enrichment
+      sequencing instruments {\cite{library}}. Two steps are essential for all these enrichment
       methods: target sequences have to be enriched and samples have to be
       multiplexed, which requires the incorporation of a unique index
       combination for each sample. Target enrichment methods can be separated
@@ -556,14 +556,14 @@
       FASTQ files of the sequencer, data generally undergo quality control,
       followed by trimming of low quality bases, alignment to the reference
       genome, variant calling and variant annotation. For each of these steps,
-      several bioinformatic algorithms and tools exist. The computational
+      several bioinformatic algorithms and tools exist {\cite{tools}}. The computational
       pipeline of the molecular pathology laboratory has to incorporate the
       tools that allow the most sensitive and sensible analysis of data. For
       instance, quality trimming influences the mapping to the reference genome.
       The mapping, in turn, strongly affects the variant calling. In fact,
       variant calling is a critical step in NGS data analysis. Several variant
       calling tools exist, but vary in their false-positive and false-negative
-      detection rates. These tools have to be carefully assessed, as
+      detection rates {\cite{calling_1}} {\cite{calling_2}}. These tools have to be carefully assessed, as
       false-positives or false-negatives should absolutely be avoided when it
       comes to the prescription of a targeted chemotherapeutic agent.
 
