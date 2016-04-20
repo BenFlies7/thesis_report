@@ -1,269 +1,468 @@
 \begin{thebibliography}{10}
 
 \bibitem{dna_repair_epidemioloy}
-M.~Berwick and P.~Vineis, ``Markers of dna repair and susceptibility to cancer
-  in humans: an epidemiologic review,'' {\em JNCI J Natl Cancer Inst}, vol.~92,
-  no.~2, pp.~874--897, 2000.
+M.~Berwick and P.~Vineis, ``Markers of {D}{N}{A} {R}epair and {S}usceptibility
+  to {C}ancer in {H}umans: an {E}pidemiologic {R}eview,'' {\em JNCI J Natl
+  Cancer Inst}, vol.~92, no.~2, pp.~874--897, 2000.
 
 \bibitem{cancer_hallmarks}
-D.~Hanahan and R.~A. Weinberg, ``Hallmarks of cancer: The next generation,''
-  {\em Cell}, vol.~114, no.~5, pp.~646–--674, 2011.
+D.~Hanahan and R.~A. Weinberg, ``{H}allmarks of {C}ancer: {T}he {N}ext
+  {G}eneration,'' {\em Cell}, vol.~114, no.~5, pp.~646–--674, 2011.
 
 \bibitem{accumulation_rates}
-D.~Hao, L.~Wang, and L.~Di, ``Distinct mutation accumulation rates among
+D.~Hao, L.~Wang, and L.~Di, ``{D}istinct mutation accumulation rates among
   tissues determine the variation in cancer risk,'' {\em Scientific Reports},
   vol.~6, 2016.
 
 \bibitem{mutations_counting}
-I.~Tomlinson, P.~Sasieni, and W.~Bodmer, ``How many mutations in a cancer?,''
-  {\em Am J Pathol.}, vol.~160, pp.~755--758, 2002.
+I.~Tomlinson, P.~Sasieni, and W.~Bodmer, ``{H}ow {M}any {M}utations in a
+  {C}ancer?,'' {\em Am J Pathol.}, vol.~160, pp.~755--758, 2002.
 
 \bibitem{multiple_mutations}
-K.~R. Loab and L.~A. Loeb, ``Significance of multiple mutations in cancer,''
+K.~R. Loab and L.~A. Loeb, ``{S}ignificance of multiple mutations in cancer,''
   {\em Carcinogenesis}, vol.~21, pp.~376--385, 2000.
 
 \bibitem{occupational_exposure}
 T.~Kauppinena, J.~Toikkanena, D.~Pedersenb, R.~Youngb, W.~Ahrensc,
   P.~Boffettad, J.~Hansene, H.~Kromhoutf, J.~M. Blascog, D.~Mirabellih,
   V.~Orden-Riverag, B.~Pannetti, N.~Platoj, A.~Savelaa, R.~Vincentk, and
-  l.~M~Kogevinasd, ``Occupational exposure to carcinogens in the european
-  union,'' {\em Occup Environ Med}, vol.~57, pp.~10--18, 2000.
+  l.~M~Kogevinasd, ``{O}ccupational exposure to carcinogens in the {E}uropean
+  {U}nion,'' {\em Occup Environ Med}, vol.~57, pp.~10--18, 2000.
 
 \bibitem{rubber_industry}
 M.~Kogevinas, M.~Sala, P.~Boffetta, N.~Kazerouni, H.~Kromhout, and
-  S.~Hoar-Zahm, ``Cancer risk in the rubber industry: a review of the recent
-  epidemiological evidence.,'' {\em Occup Environ Med}, vol.~55, pp.~1--12,
+  S.~Hoar-Zahm, ``{C}ancer risk in the rubber industry: a review of the recent
+  epidemiological evidence,'' {\em Occup Environ Med}, vol.~55, pp.~1--12,
   1998.
 
 \bibitem{smoking_cancer}
 J.~Cornfield, W.~Haenszel, E.~C. Hammond, A.~M. Lilienfeld, M.~B. Shimkin, and
-  E.~L. Wynder, ``Smoking and lung cancer: recent evidence and a discussion of
-  some questions,'' {\em Int. J. Epidemiol.}, vol.~38, pp.~1175--1191, 2009.
+  E.~L. Wynder, ``{S}moking and lung cancer: recent evidence and a discussion
+  of some questions,'' {\em Int. J. Epidemiol.}, vol.~38, pp.~1175--1191, 2009.
 
 \bibitem{ros_cancer}
-P.~T. Schumacker, ``Reactive oxygen species in cancer cells: Live by the sword,
-  die by the sword,'' {\em Cancer Cell}, vol.~10, pp.~241--252, 2006.
+P.~T. Schumacker, ``{R}eactive oxygen species in cancer cells: {L}ive by the
+  sword, die by the sword,'' {\em Cancer Cell}, vol.~10, pp.~241--252, 2006.
 
 \bibitem{ros_cancer_other}
-G.~Waris and H.~Ahsan, ``Reactive oxygen species: role in the development of
+G.~Waris and H.~Ahsan, ``{R}eactive oxygen species: role in the development of
   cancer and various chronic conditions,'' {\em Journal of Carcinogenesis},
   vol.~5, 2006.
 
 \bibitem{dna_repair}
-F.~Dietlein, L.~Thelen, and H.~C. Reinhardt, ``Cancer-specific defects in dna
+F.~Dietlein, L.~Thelen, and H.~C. Reinhardt, ``{C}ancer-specific defects in dna
   repair pathways as targets for personalized therapeutic approaches,'' {\em
   Trends in Genetics}, vol.~30, no.~8, 2014.
 
-\bibitem{dna_pol}
-V.~Bergoglio, M.~Pillaire, M.~Lacroix-Triki, B.~Raynaud-Messina, Y.~Canitrot,
-  A.~Bieth, M.~Garès, M.~Wright, G.~Delsol, L.~A. Loeb, C.~Cazaux, and
-  J.~Hoffmann, ``Deregulated dna polymerase $\beta$ induces chromosome
-  instability and tumorigenesis,'' {\em Cancer Res}, vol.~62, 2002.
-
 \bibitem{msi}
-C.~Boland and A.~Goel, ``Microsatellite instability in colorectal cancer,''
+C.~Boland and A.~Goel, ``{M}icrosatellite instability in colorectal cancer,''
   {\em Gastroenterology}, vol.~138, pp.~2073--2087, 2010.
 
 \bibitem{cin_crc}
-R.~Kanthan, J.~Senger, and S.~C. Kanthan, ``Molecular events in primary and
-  metastatic colorectal carcinoma: A review,'' {\em Pathology Research
-  International}, 2012.
+R.~Kanthan, J.~Senger, and S.~C. Kanthan, ``{M}olecular {E}vents in {P}rimary
+  and {M}etastatic {C}olorectal {C}arcinoma: {A} {R}eview,'' {\em Pathology
+  Research International}, 2012.
 
 \bibitem{micro}
-V.~Deschoolmeester, M.~Baay, P.~Specenier, F.~Lardon, and J.~B. Vermorken, ``A
-  review of the most promising biomarkers in colorectal cancer: one step closer
-  to targeted therapy,'' {\em Oncologist}, vol.~15, pp.~699--731, 2010.
-
-\bibitem{chromosome_missegregation}
-P.~V. Jallepalli and C.~Lengauer, ``Chromosome segregation and cancer: cutting
-  through the mystery,'' {\em Nature Reviews Cancer}, vol.~1, pp.~109--117,
-  2001.
+V.~Deschoolmeester, M.~Baay, P.~Specenier, F.~Lardon, and J.~B. Vermorken,
+  ``{A} review of the most promising biomarkers in colorectal cancer: one step
+  closer to targeted therapy,'' {\em Oncologist}, vol.~15, pp.~699--731, 2010.
 
 \bibitem{aneuploidy}
-M.~Giam and G.~Rancati, ``Aneuploidy and chromosomal instability in cancer: a
+M.~Giam and G.~Rancati, ``{A}neuploidy and chromosomal instability in cancer: a
   jackpot to chaos,'' {\em Cell Div}, vol.~10, 2015.
 
 \bibitem{chromothripsis_1}
-J.~Forment, A.~Kaidi, and S.~Jackson, ``Chromothripsis and cancer: causes and
-  consequences of chromosome shattering.,'' {\em Nature Reviews Cancer},
+J.~Forment, A.~Kaidi, and S.~Jackson, ``{C}hromothripsis and cancer: causes and
+  consequences of chromosome shattering,'' {\em Nature Reviews Cancer},
   vol.~12, pp.~663--670, 2012.
 
 \bibitem{chromothripsis_2}
-A.~Rode, K.~Maass, K.~Willmund, P.~Lichter, and A.~Ernst, ``Chromothripsis in
-  cancer cells: An update.,'' {\em Int J Cancer}, vol.~138, pp.~2322--2333,
+A.~Rode, K.~Maass, K.~Willmund, P.~Lichter, and A.~Ernst, ``{C}hromothripsis in
+  cancer cells: {A}n update,'' {\em Int J Cancer}, vol.~138, pp.~2322--2333,
   2016.
 
 \bibitem{clonal_evolution}
-M.~Greaves and C.~C. Maley, ``Clonal evolution in cancer,'' {\em Nature},
+M.~Greaves and C.~C. Maley, ``{C}lonal {E}volution in {C}ancer,'' {\em Nature},
   vol.~481, pp.~306--313, 2012.
 
 \bibitem{darwinian_models}
-M.~Gerlinger and C.~Swanton, ``How darwinian models inform therapeutic failure
-  initiated by clonal heterogeneity in cancer medicine,'' {\em British Journal
-  of Cancer}, vol.~103, pp.~1139--–1143, 2010.
+M.~Gerlinger and C.~Swanton, ``{H}ow {D}arwinian models inform therapeutic
+  failure initiated by clonal heterogeneity in cancer medicine,'' {\em British
+  Journal of Cancer}, vol.~103, pp.~1139--–1143, 2010.
 
 \bibitem{war_zone}
-J.~Breivik, ``Don't stop for repairs in a war zone: Darwinian evolution unites
-  genes and environment in cancer development,'' {\em PNAS}, vol.~98, no.~10,
-  pp.~5379--5381, 2001.
+J.~Breivik, ``{D}on't stop for repairs in a war zone: {D}arwinian evolution
+  unites genes and environment in cancer development,'' {\em PNAS}, vol.~98,
+  no.~10, pp.~5379--5381, 2001.
 
 \bibitem{cancer_models}
-M.~P. Little, ``Cancer models, genomic instability and somatic cellular
-  darwinian evolution,'' {\em PNAS}, vol.~5, no.~19, 2010.
+M.~P. Little, ``{C}ancer models, genomic instability and somatic cellular
+  {D}arwinian evolution,'' {\em PNAS}, vol.~5, no.~19, 2010.
 
 \bibitem{cancer_genome}
-M.~R. Stratton, P.~J. Campbell, and P.~A. Futreal, ``The cancer genome,'' {\em
-  Nature}, vol.~458, pp.~719--724, 2009.
+M.~R. Stratton, P.~J. Campbell, and P.~A. Futreal, ``{T}he cancer genome,''
+  {\em Nature}, vol.~458, pp.~719--724, 2009.
 
 \bibitem{stochastic_cancer}
 C.~D. McFarland, K.~S. Korolev, G.~V. Kryukov, S.~R. Sunyaev, and L.~A. Mirny,
-  ``Impact of deleterious passenger mutations on cancer progression,'' {\em
+  ``{I}mpact of deleterious passenger mutations on cancer progression,'' {\em
   Proc Natl Acad Sci USA}, vol.~110, pp.~2910–--2915, 2013.
+
+\bibitem{driver_passenger}
+S.~K. Merid, D.~Goranskaya, and A.~Alexeyenko, ``{D}istinguishing between
+  driver and passenger mutations in individual cancer genomes by network
+  enrichment analysis,'' {\em BMC Bioinformatics}, vol.~15, 2014.
 
 \bibitem{som_mut}
 I.~Bozic, T.~Antal, H.~Ohtsuki, H.~Carter, D.~Kim, S.~Chen, R.~Karchin, K.~W.
-  Kinzler, B.~Vogelstein, and M.~A. Nowak, ``Accumulation of driver and
+  Kinzler, B.~Vogelstein, and M.~A. Nowak, ``{A}ccumulation of driver and
   passenger mutations during tumor progression,'' {\em Proc Natl Acad Sci USA},
   vol.~107, pp.~18545--–18550, 2010.
 
-\bibitem{driver_passenger}
-S.~K. Merid, D.~Goranskaya, and A.~Alexeyenko, ``Distinguishing between driver
-  and passenger mutations in individual cancer genomes by network enrichment
-  analysis,'' {\em BMC Bioinformatics}, vol.~15, 2014.
-
 \bibitem{intertumor}
-M.~Cusnir and L.~Cavalcante, ``Inter-tumor heterogeneity,'' {\em Human Vaccines
-  and Immunotherapeutics}, vol.~8, 2012.
+M.~Cusnir and L.~Cavalcante, ``{I}nter-tumor heterogeneity,'' {\em Human
+  Vaccines and Immunotherapeutics}, vol.~8, 2012.
 
 \bibitem{intratumor}
-F.~Michor and K.~Polyak, ``The origins and implications of intratumor
-  heterogeneity,'' {\em Cancer Prev Res}, vol.~3, pp.~1361--1364, 2010.
+F.~Michor and K.~Polyak, ``{T}he {O}rigins and {I}mplications of {I}ntratumor
+  {H}eterogeneity,'' {\em Cancer Prev Res}, vol.~3, pp.~1361--1364, 2010.
 
 \bibitem{tumor_supp}
-W.~Sun and J.~Yang, ``Functional mechanisms for human tumor suppressors,'' {\em
-  J Cancer}, vol.~1, pp.~136--140, 2010.
+W.~Sun and J.~Yang, ``{F}unctional {M}echanisms for {H}uman {T}umor
+  {S}uppressors,'' {\em J Cancer}, vol.~1, pp.~136--140, 2010.
 
 \bibitem{two_hit}
-H.~Chial, ``Tumor suppressor (ts) genes and the two-hit hypothesis,'' {\em
-  Nature Education}, vol.~1, 2010.
+H.~Chial, ``{T}umor {S}uppressor ({T}{S}) {G}enes and the {T}wo-{H}it
+  {H}ypothesis,'' {\em Nature Education}, vol.~1, 2010.
 
 \bibitem{haploinsuff}
-M.~Santarosa and A.~Ashworth, ``Haploinsufficiency for tumour suppressor genes:
-  when you don't need to go all the way,'' {\em Biochim Biophys Acta.},
+M.~Santarosa and A.~Ashworth, ``{H}aploinsufficiency for tumour suppressor
+  genes: when you don't need to go all the way,'' {\em Biochim Biophys Acta.},
   vol.~1654, pp.~105--122, 2004.
 
 \bibitem{wnt_signal}
-B.~T. MacDonald, K.~Tamai, and X.~He, ``Wnt/$\beta$-catenin signaling:
+B.~T. MacDonald, K.~Tamai, and X.~He, ``{W}nt/$\beta$-catenin signaling:
   components, mechanisms, and diseases,'' {\em Dev Cell}, vol.~17, no.~1,
   pp.~9--26, 2009.
 
 \bibitem{wnt_signal_2}
-P.~Polakis, ``Wnt signaling and cancer,'' {\em Genes & Dev}, vol.~14,
+P.~Polakis, ``{W}nt signaling and cancer,'' {\em Genes & Dev}, vol.~14,
   pp.~1837--1851, 2000.
 
 \bibitem{tp53_1}
-M.~Farnebo, V.~J. Bykov, and K.~G. Wiman, ``The p53 tumor suppressor: a master
-  regulator of diverse cellular processes and therapeutic target in cancer,''
-  {\em Biochem Biophys Res Commun.}, vol.~396, no.~1, pp.~85--89, 2010.
+M.~Farnebo, V.~J. Bykov, and K.~G. Wiman, ``{T}he p53 tumor suppressor: a
+  master regulator of diverse cellular processes and therapeutic target in
+  cancer,'' {\em Biochem Biophys Res Commun.}, vol.~396, no.~1, pp.~85--89,
+  2010.
 
 \bibitem{tp53_2}
-Y.~Yang, C.~H. Li, and A.~M. Weissman, ``Regulating the p53 system through
+Y.~Yang, C.~H. Li, and A.~M. Weissman, ``{R}egulating the p53 system through
   ubiquitination,'' {\em Oncogene}, vol.~23, pp.~2096--2106, 2004.
 
 \bibitem{tp53_3}
-J.~T. Zilfou and S.~W. Lowe, ``Tumor suppressive functions of p53,'' {\em Cold
-  Spring Harb Perspect Biol.}, vol.~1, no.~5, 2009.
+J.~T. Zilfou and S.~W. Lowe, ``{T}umor {S}uppressive {F}unctions of p53,'' {\em
+  Cold Spring Harb Perspect Biol.}, vol.~1, no.~5, 2009.
 
 \bibitem{tp53_4}
-M.~Olivier, M.~Hollstein, and P.~Hainaut, ``Tp53 mutations in human cancers:
-  Origins, consequences, and clinical use,'' {\em Cold Spring Harb Perspect
-  Biol.}, vol.~2, no.~1, 2010.
+M.~Olivier, M.~Hollstein, and P.~Hainaut, ``{T}{P}53 {M}utations in {H}uman
+  {C}ancers: {O}rigins, {C}onsequences, and {C}linical {U}se,'' {\em Cold
+  Spring Harb Perspect Biol.}, vol.~2, no.~1, 2010.
 
 \bibitem{oncogenes}
-C.~M. Croce, ``Oncogenes and cancer,'' {\em N Engl J Med}, vol.~358,
+C.~M. Croce, ``{O}ncogenes and {C}ancer,'' {\em N Engl J Med}, vol.~358,
   pp.~502--511, 2008.
 
-\bibitem{egfr_review}
-R.~S. Herbst, ``Review of epidermal growth factor receptor biology,'' {\em Int
-  J Radiat Oncol Biol Phys.}, vol.~59, pp.~21--26, 2004.
-
-\bibitem{egfr_review_2}
-K.~M. Ferguson, ``Structure-based view of epidermal growth factor receptor
-  regulation,'' {\em Annu Rev Biophys.}, vol.~37, pp.~353--373, 2008.
-
-\bibitem{pi3k_2}
-J.~LoPiccolo, G.~M. Blumenthal, W.~B. Bernstein, and P.~A. Dennis, ``Targeting
-  the pi3k/akt/mtor pathway: effective combinations and clinical
-  considerations,'' {\em Drug Resist Updat}, vol.~11, pp.~32--50, 2008.
-
-\bibitem{pi3k_3}
-B.~A. Hemmings and D.~F. Restuccia, ``Pi3k-pkb/akt pathway,'' {\em Cold Spring
-  Harb Perspect Biol}, 2012.
-
-\bibitem{pdk1}
-J.~R. Hart and P.~K. Vogt, ``Phosphorylation of akt: a mutational analysis,''
-  {\em Oncotarget}, vol.~2, no.~6, pp.~467–--476, 2011.
-
-\bibitem{akt}
-I.~Hers, E.~E. Vincent, and J.~M. Tavaré, ``Akt signalling in health and
-  disease,'' {\em Cell Signal}, vol.~23, no.~10, pp.~1515--1527, 2011.
-
-\bibitem{pi3k}
-J.~F. Vara, A.~Casado, J.~de~Castro, P.~Cejas, C.~Belda-Iniesta, and
-  M.~González-Barón, ``Pi3k/akt signalling pathway and cancer.,'' {\em Cancer
-  Treat Rev.}, vol.~30, pp.~193--204, 2004.
-
-\bibitem{grb2}
-E.~H. Lowenstein, R.~J. Daly, A.~G. Batzer, W.~Li, B.~Margolis, R.~Lammers,
-  A.~Ullrich, E.~Y. Skolnik, D.~Bar-Sagi, and J.~Schlessinger, ``The sh2 and
-  sh3 domain-containing protein grb2 links receptor tyrosine kinases to ras
-  signaling,'' {\em Cell}, vol.~70, no.~3, pp.~431--442, 1992.
-
-\bibitem{raf}
-N.~H. Tran, X.~Wu, and J.~A. Frost, ``B-raf and raf-1 are regulated by distinct
-  autoregulatory mechanisms,'' {\em J Biol Chem.}, vol.~280, no.~6,
-  pp.~16244--16253, 2005.
-
-\bibitem{raf_2}
-K.~Hibino, T.~Shibata, T.~Yanagida, and Y.~Sako, ``A rasgtp-induced
-  conformational change in c-raf is essential for accurate molecular
-  recognition,'' {\em Biophys J.}, vol.~97, no.~5, p.~1277–1287, 2009.
-
-\bibitem{pak1}
-M.~Zang, C.~Hayne, and Z.~Luo, ``Interaction between active pak1 and raf-1 is
-  necessary for phosphorylation and activation of raf-1,'' {\em J Biol Chem.},
-  vol.~277, no.~6, pp.~4395--4405, 2002.
+\bibitem{nsclc}
+J.~Yokota and T.~Kohno, ``{M}olecular footprints of human lung cancer
+  progression,'' {\em Cancer Sci.}, vol.~95, no.~3, pp.~197--204, 2004.
 
 \bibitem{melanoma_3}
 S.~Mouret, C.~Baudouin, M.~Charveron, A.~Favier, J.~Cadet, and T.~Douki,
-  ``Cyclobutane pyrimidine dimers are predominant dna lesions in whole human
-  skin exposed to uva radiation,'' {\em PNAS}, vol.~103, no.~37,
+  ``{C}yclobutane pyrimidine dimers are predominant {D}{N}{A} lesions in whole
+  human skin exposed to {U}{V}{A} radiation,'' {\em PNAS}, vol.~103, no.~37,
   pp.~13765--13770, 2011.
 
 \bibitem{xero}
 K.~Paszkowska-Szczur, R.~J. Scott, P.~Serrano-Fernandez, A.~Mirecka, P.~Gapska,
   B.~Górski, C.~Cybulski, R.~Maleszka, M.~Sulikowski, L.~Nagay, J.~Lubinski,
-  and T.~D. T, ``Xeroderma pigmentosum genes and melanoma risk,'' {\em Int J
+  and T.~D. T, ``{X}eroderma pigmentosum genes and melanoma risk,'' {\em Int J
   Cancer}, vol.~133, no.~5, pp.~1094--1100, 2013.
 
 \bibitem{melanoma}
-R.~A. Anvekar, J.~J. Asciolla, D.~J. Missert, and J.~E. Chipuk, ``Born to be
-  alive: a role for the bcl-2 family in melanoma tumor cell survival,
+R.~A. Anvekar, J.~J. Asciolla, D.~J. Missert, and J.~E. Chipuk, ``{B}orn to be
+  alive: a role for the {B}{C}{L}-2 family in melanoma tumor cell survival,
   apoptosis, and treatment,'' {\em Frontiers in Oncology}, vol.~1, no.~34,
   2011.
 
 \bibitem{melanoma_2}
-B.~Bandarchi, L.~Ma, R.~Navab, A.~Seth, and G.~Rasty, ``From melanocyte to
-  metastatic malignant melanoma,'' {\em Dermatol Res Pract.}, 2010.
+B.~Bandarchi, L.~Ma, R.~Navab, A.~Seth, and G.~Rasty, ``{F}rom {M}elanocyte to
+  {M}etastatic {M}alignant {M}elanoma,'' {\em Dermatol Res Pract.}, 2010.
 
 \bibitem{crc}
-S.~D. Markowitz and M.~M. Bertagnolli, ``Molecular basis of colorectal
-  cancer,'' {\em The new england journal of medicine}, vol.~361, no.~55,
+S.~D. Markowitz and M.~M. Bertagnolli, ``{M}olecular {B}asis of {C}olorectal
+  {C}ancer,'' {\em The new england journal of medicine}, vol.~361, no.~55,
   pp.~2449--2460, 2009.
 
 \bibitem{crc_2}
-R.~J. Davies, R.~Miller, and N.~Coleman, ``Colorectal cancer screening:
+R.~J. Davies, R.~Miller, and N.~Coleman, ``{C}olorectal cancer screening:
   prospects for molecular stool analysis,'' {\em Nature Reviews Cancer},
   vol.~5, pp.~199--209, 2005.
+
+\bibitem{egfr_review}
+R.~S. Herbst, ``{R}eview of epidermal growth factor receptor biology,'' {\em
+  Int J Radiat Oncol Biol Phys.}, vol.~59, pp.~21--26, 2004.
+
+\bibitem{egfr_review_2}
+K.~M. Ferguson, ``{S}tructure-based view of epidermal growth factor receptor
+  regulation,'' {\em Annu Rev Biophys.}, vol.~37, pp.~353--373, 2008.
+
+\bibitem{pi3k_2}
+J.~LoPiccolo, G.~M. Blumenthal, W.~B. Bernstein, and P.~A. Dennis,
+  ``{T}argeting the {P}{I}3{K}/{A}kt/m{T}{O}{R} pathway: effective combinations
+  and clinical considerations,'' {\em Drug Resist Updat}, vol.~11, pp.~32--50,
+  2008.
+
+\bibitem{pi3k_3}
+B.~A. Hemmings and D.~F. Restuccia, ``{P}{I}3{K}-{P}{K}{B}/{A}kt {P}athway,''
+  {\em Cold Spring Harb Perspect Biol}, 2012.
+
+\bibitem{pdk1}
+J.~R. Hart and P.~K. Vogt, ``{P}hosphorylation of {A}{K}{T}: a {M}utational
+  {A}nalysis,'' {\em Oncotarget}, vol.~2, no.~6, pp.~467–--476, 2011.
+
+\bibitem{akt}
+I.~Hers, E.~E. Vincent, and J.~M. Tavaré, ``{A}kt signalling in health and
+  disease,'' {\em Cell Signal}, vol.~23, no.~10, pp.~1515--1527, 2011.
+
+\bibitem{pi3k}
+J.~F. Vara, A.~Casado, J.~de~Castro, P.~Cejas, C.~Belda-Iniesta, and
+  M.~González-Barón, ``{P}{I}3{K}/{A}kt signalling pathway and cancer,'' {\em
+  Cancer Treat Rev.}, vol.~30, pp.~193--204, 2004.
+
+\bibitem{grb2}
+E.~H. Lowenstein, R.~J. Daly, A.~G. Batzer, W.~Li, B.~Margolis, R.~Lammers,
+  A.~Ullrich, E.~Y. Skolnik, D.~Bar-Sagi, and J.~Schlessinger, ``{T}he {S}{H}2
+  and {S}{H}3 domain-containing protein {G}{R}{B}2 links receptor tyrosine
+  kinases to {R}as signaling,'' {\em Cell}, vol.~70, no.~3, pp.~431--442, 1992.
+
+\bibitem{raf}
+N.~H. Tran, X.~Wu, and J.~A. Frost, ``{B}-{R}af and {R}af-1 are regulated by
+  distinct autoregulatory mechanisms,'' {\em J Biol Chem.}, vol.~280, no.~6,
+  pp.~16244--16253, 2005.
+
+\bibitem{raf_2}
+K.~Hibino, T.~Shibata, T.~Yanagida, and Y.~Sako, ``{A} {R}as{G}{T}{P}-{I}nduced
+  {C}onformational {C}hange in {C}-{R}{A}{F} {I}s {E}ssential for {A}ccurate
+  {M}olecular {R}ecognition,'' {\em Biophys J.}, vol.~97, no.~5,
+  p.~1277–1287, 2009.
+
+\bibitem{pak1}
+M.~Zang, C.~Hayne, and Z.~Luo, ``{I}nteraction between active {P}ak1 and
+  {R}af-1 is necessary for phosphorylation and activation of {R}af-1,'' {\em J
+  Biol Chem.}, vol.~277, no.~6, pp.~4395--4405, 2002.
+
+\bibitem{dysregulated}
+C.~Artega, ``{T}argeting {H}{E}{R}1/{E}{G}{F}{R}: {A} molecular approach to
+  cancer therapy,'' {\em Seminars in Oncolog}, vol.~30, no.~3, pp.~3--14, 2016.
+
+\bibitem{targeting_2}
+U.~Rodeck, M.~Jost, J.~DuHadaway, C.~Kari, P.~J. Jensen, B.~Risse, and D.~L.
+  Ewert, ``{R}egulation of {B}cl--x{L} expression in human keratinocytes by
+  cell--substratum adhesion and the epidermal growth factor receptor,'' {\em
+  Proc. Natl. Acad. Sci. USA}, vol.~94, pp.~5067--5072, 1994.
+
+\bibitem{targeting}
+C.~Kari, T.~O. Chan, M.~R. de~Quadros, and U.~Rodeck, ``{T}argeting the
+  {E}pidermal {G}rowth {F}actor {R}eceptor in {C}ancer: {A}poptosis {T}akes
+  {C}enter {S}tage,'' {\em Cancer Research}, vol.~63, pp.~1--5, 2003.
+
+\bibitem{targeting_3}
+A.~P. Gilmore, A.~J. Valentijn, P.~Wanger, A.~M. Ranger, N.~Bundred, M.~J.
+  O'Hare, A.~Wakeling, S.~J. Korsmeyer, and C.~H. Streuli, ``{A}ctivation of
+  {B}{A}{D} by therapeutic inhibition of epidermal growth factor receptor and
+  transactivation by insulin--like growth factor receptor,'' {\em J. Biol.
+  Chem.}, vol.~277, pp.~27643--27650, 2002.
+
+\bibitem{targeting_4}
+W.~G. Stetler-Stevenson, S.~Aznavoorian, , and L.~A. Liotta, ``{T}umor {C}ell
+  {I}nteractions with the {E}xtracellular {M}atrix {D}uring {I}nvasion and
+  {M}etastasis,'' {\em Annual Review of Cell Biology}, vol.~9, pp.~541--573,
+  1993.
+
+\bibitem{targeting_5}
+M.~Jost, T.~M. Hugget, C.~Kari, L.~H. Boise, and U.~Rodeck, ``{E}pidermal
+  growth factor receptor--dependent control of keratinocyte survival and
+  {B}cl--x{L} expression through a {M}{E}{K}--dependent pathway,'' {\em J.
+  Biol. Chem.}, vol.~276, pp.~6320--6326, 2001.
+
+\bibitem{cetuxi}
+J.~Baselga, ``{T}he {E}{G}{F}{R} as a target for anticancer therapy—focus on
+  cetuximab,'' {\em European Journal of Cancer}, vol.~37, pp.~16--22, 2001.
+
+\bibitem{cetuxi_2}
+D.~Patel, A.~Lahiji, S.~Patel, M.~Franklin, X.~Jimenez, D.~J. Hicklin, and
+  X.~Kang, ``{M}onoclonal {A}ntibody {C}etuximab {B}inds to and
+  {D}own-regulates {C}onstitutively {A}ctivated {E}pidermal {G}rowth {F}actor
+  {R}eceptor v{I}{I}{I} on the {C}ell {S}urface,'' {\em Anticancer Research},
+  vol.~27, pp.~3355--3366, 2007.
+
+\bibitem{cetuxi_3}
+D.~Raben, B.~Helfrich, D.~C. Chan, F.~C.~L. Zhao, W.~Franklin, A.~E. Barón,
+  C.~Zeng, T.~K. Johnson, and P.~A. Bunn, ``{T}he effects of cetuximab alone
+  and in combination with radiation and/or chemotherapy in lung cancer,'' {\em
+  Clin Cancer Res}, vol.~11, pp.~795--805, 2005.
+
+\bibitem{tki}
+B.~C. Liao, C.~C. Lin, and J.~C. Yang, ``{S}econd and third-generation
+  epidermal growth factor receptor tyrosine kinase inhibitors in advanced
+  nonsmall cell lung cancer,'' {\em Curr Opin Oncol.}, vol.~27, pp.~94--101,
+  2015.
+
+\bibitem{tki_2}
+N.~Normanno, M.~R. Maiello, and A.~D. Luca, ``{E}pidermal growth factor
+  receptor tyrosine kinase inhibitors ({E}{G}{F}{R}-{T}{K}{I}s): simple drugs
+  with a complex mechanism of action?,'' {\em J Cell Physiol.}, vol.~194,
+  pp.~13--19, 2003.
+
+\bibitem{egfr_nsclc}
+T.~J. Lynch, D.~W. Bell, R.~Sordella, S.~Gurubhagavatula, R.~A. Okimoto, B.~W.
+  Brannigan, P.~L. Harris, S.~M. Haserlat, J.~G. Supko, F.~G. Haluska, D.~N.
+  Louis, D.~C. Christiani, J.~Settleman, and D.~A. Haber, ``{A}ctivating
+  mutations in the epidermal growth factor receptor underlying responsiveness
+  of non-small-cell lung cancer to gefitinib,'' {\em N Engl J Med.}, vol.~350,
+  no.~21, pp.~2129--2139, 2004.
+
+\bibitem{egfr_nsclc_2}
+C.~Lovly, L.~Horn, and W.~Pao, ``{E}{G}{F}{R} in {N}on-{S}mall {C}ell {L}ung
+  {C}ancer ({N}{S}{C}{L}{C}),'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/lung-cancer/egfr/}, 2015, as
+  of 20.4.2016.
+
+\bibitem{kras_crc}
+E.~Chan, ``{K}{R}{A}{S} in {C}olorectal {C}ancer.,'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/colorectal-cancer/kras/},
+  2015, as of 20.4.2016.
+
+\bibitem{kras_nsclc}
+C.~Lovly, L.~Horn, and W.~Pao, ``{K}{R}{A}{S} in {N}on-{S}mall {C}ell {L}ung
+  {C}ancer ({N}{S}{C}{L}{C}),'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/lung-cancer/kras/}, 2015, as
+  of 20.4.2016.
+
+\bibitem{melanoma_kras}
+H.~Tsao, L.~Chin, L.~A. Garraway, and D.~E. Fisher, ``{M}elanoma: from
+  mutations to medicine,'' {\em Genes and Dev.}, vol.~26, no.~4,
+  pp.~1131--1155, 2012.
+
+\bibitem{kras_activating}
+S.~Schubbert, G.~Bollag, N.~Lyubynska, H.~Nguyen, C.~P. Kratz, M.~Zenker, C.~M.
+  Niemeyer, A.~Molven, and K.~Shannon, ``{B}iochemical and {F}unctional
+  {C}haracterization of {G}erm {L}ine {K}{R}{A}{S} {M}utations,'' {\em Mol.
+  Cell. Biol.}, vol.~27, no.~22, pp.~7765--7770, 2007.
+
+\bibitem{nras_crc}
+E.~Chan, ``{N}{R}{A}{S} in {C}olorectal {C}ancer,'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/colorectal-cancer/nras/},
+  2015, as of 20.4.2016.
+
+\bibitem{nras_melanoma}
+C.~Lovly, W.~Pao, and J.~Sosman, ``{N}{R}{A}{S} in {M}elanoma,'' {\em My Cancer
+  Genome https://www.mycancergenome.org/content/disease/melanoma/nras/}, 2015,
+  as of 20.4.2016.
+
+\bibitem{nras_nsclc}
+C.~Lovly, L.~Horn, and W.~Pao, ``{N}{R}{A}{S} in {N}on-{S}mall {C}ell {L}ung
+  {C}ancer ({N}{S}{C}{L}{C}),'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/lung-cancer/nras/}, 2015, as
+  of 20.4.2016.
+
+\bibitem{braf_melanoma}
+C.~Lovly, W.~Pao, and J.~Sosman, ``{B}{R}{A}{F} in {M}elanoma,'' {\em My Cancer
+  Genome https://www.mycancergenome.org/content/disease/melanoma/braf/}, 2015,
+  as of 20.4.2016.
+
+\bibitem{braf_crc}
+D.~Stover, ``{B}{R}{A}{F} in {C}olorectal {C}ancer,'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/colorectal-cancer/braf/},
+  2015, as of 20.4.2016.
+
+\bibitem{braf_nsclc}
+C.~Lovly, L.~Horn, and W.~Pao, ``{B}{R}{A}{F} in {N}on-{S}mall {C}ell {L}ung
+  {C}ancer ({N}{S}{C}{L}{C}),'' {\em My Cancer Genome
+  https://www.mycancergenome.org/content/disease/lung-cancer/braf/}, 2015, as
+  of 20.4.2016.
+
+\bibitem{v600e}
+E.~R. Cantwell-Dorris, J.~J. O'Leary, and O.~M. Sheils, ``{B}{R}{A}{F}
+  {V}600{E}: {I}mplications for {C}arcinogenesis and {M}olecular {T}herapy,''
+  {\em Mol Cancer Ther}, vol.~10, no.~385, 2011.
+
+\bibitem{implementation}
+R.~Simon and S.~Roychowdhury, ``{I}mplementing personalized cancer genomics in
+  clinical trials,'' {\em Nature Reviews Drug Discovery}, vol.~12,
+  pp.~358--369, 2013.
+
+\bibitem{ffpe_ngs}
+S.~Q. Wong, J.~Li, A.~Y. Tan, R.~Vedururu, J.~B. Pang, H.~Do, J.~Ellul,
+  K.~Doig, A.~Bell, G.~A. MacArthur, S.~B. Fox, D.~M. Thomas, A.~Fellowes,
+  J.~P. Parisot, and A.~Dobrovic, ``{S}equence artefacts in a prospective
+  series of formalin-fixed tumours tested for mutations in hotspot regions by
+  massively parallel sequencing,'' {\em BMC Medical Genomics}, vol.~7, no.~23,
+  2014.
+
+\bibitem{ffpe_ngs_2}
+M.~T. Gilbert, T.~Haselkorn, M.~Bunce, J.~J. Sanchez, and S.~B. Lucas, ``{T}he
+  {I}solation of {N}ucleic {A}cids from {F}ixed, {P}araffin-{E}mbedded
+  {T}issues– {W}hich {M}ethods {A}re {U}seful {W}hen?,'' {\em PLoS ONE},
+  vol.~2, no.~6, 2007.
+
+\bibitem{ffpe_ngs_3}
+R.~Thavarajah, V.~K. Mudimbaimannar, J.~Elizabeth, U.~K. Roa, and
+  K.~Ranganathan, ``{C}hemical and physical basics of routine formaldehyde
+  fixation,'' {\em J Oral Maxillofac Pathol.}, vol.~16, no.~3, 2012.
+
+\bibitem{ffpe_ngs_4}
+H.~Do, S.~Q. Wong, J.~Li, and A.~Dobrovic, ``{R}educing {S}equence {A}rtifacts
+  in {A}mplicon-{B}ased {M}assively {P}arallel {S}equencing of
+  {F}ormalin-{F}ixed {P}araffin-{E}mbedded {D}{N}{A} by {E}nzymatic {D}epletion
+  of {U}racil-{C}ontaining {T}emplates,'' {\em Clinical Chemistry}, vol.~59,
+  no.~9, 2013.
+
+\bibitem{ffpe_ngs_5}
+N.~Ludyga, B.~Grènwald, O.~Azimzadeh, S.~Englert, H.~Höfler, S.~Tapio, and
+  M.~Aubele, ``{Nu}cleic acids from long-term preserved {F}{F}{P}{E} tissues
+  are suitable for downstream analyses,'' {\em Virchows Arch}, vol.~460,
+  pp.~131--140, 2012.
+
+\bibitem{devices}
+C.~Meldrum, M.~A. Doyle, and R.~W. Tothill, ``{N}ext-{G}eneration {S}equencing
+  for {C}ancer {D}iagnostics: a {P}ractical {P}erspective,'' {\em Clin Biochem
+  Rev}, vol.~32, no.~385, 2011.
+
+\bibitem{library}
+J.~Haas, I.~Barb, H.~A. Katus, and B.~Meder, ``{T}argeted {N}ext-{G}eneration
+  {S}equencing: {T}he {C}linician’s {S}tethoscope for {G}enetic
+  {D}isorders,'' {\em Personalized Medicine}, vol.~11, no.~6, pp.~581--592,
+  2014.
+
+\bibitem{tools}
+S.~Pabinger, A.~Dander, M.~Fischer, R.~Snajder, M.~Sperk, M.~Efremova,
+  B.~Krabichler, M.~R. Speicher, J.~Zschocke, and Z.~Trajanoski, ``{A} survey
+  of tools for variant analysis of next-generation genome sequencing data,''
+  {\em Briefings in Bioinformatics}, vol.~15, no.~2, pp.~256--278, 2013.
+
+\bibitem{calling_1}
+J.~O'Rawe, T.~Jiang, G.~Sun, Y.~Wu, Q.~Wang, J.~Hu, P.~Bodily, L.~Tian,
+  H.~Hakonarson, W.~E. Johnson, Z.~Wei, K.~Wang, and G.~J. Lyon, ``{L}ow
+  concordance of multiple variant-calling pipelines: practical implications for
+  exome and genome sequencing,'' {\em Genome Medicine}, vol.~15, no.~28, 2013.
+
+\bibitem{calling_2}
+D.~H. Spencer, M.~Tyagi, F.~Vallania, A.~J. Bredemeyer, J.~D. Pfeifer, R.~D.
+  Mitra, and E.~J. Duncavage, ``{P}erformance of {C}ommon {A}nalysis {M}ethods
+  for {D}etecting {L}ow-{F}requency {S}ingle {N}ucleotide {V}ariants in
+  {T}argeted {N}ext-{G}eneration {S}equence {D}ata,'' {\em The Journal of
+  Molecular Diagnostics}, vol.~16, no.~1, 2014.
 
 \end{thebibliography}
